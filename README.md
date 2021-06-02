@@ -95,7 +95,7 @@ Thursdays - 3rd Year (Level 6)
 
 In some cases study days might be on a different day than above this will be done in consultation with you and your employer
 
-[Download the Module delivery diagram for all pathways](DATS_MAP_SEPT_JAN_START_v10-5-2021.pdf)
+[Download the Module delivery diagram for all pathways](info/DATS_MAP_SEPT_JAN_START_v10-5-2021.pdf)
 
 ### Module Descriptors
 [Download Level 4 (1st year) Module Descriptors](info/Level 4 Modules-20210525.zip)
