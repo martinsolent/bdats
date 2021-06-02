@@ -97,6 +97,8 @@ In some cases study days might be on a different day than above this will be don
 
 [Download the Module delivery diagram for all pathways](info/DATS_MAP_SEPT_JAN_START_v10-5-2021.pdf)
 
+[This spreadsheet shows the delivery of all pathways by semester](https://ssu-my.sharepoint.com/:x:/g/personal/martin_reid_solent_ac_uk/Eedlc3BnwzVDqgEjm50ngqcB_enMAwsiFWet4LEmFrgPgw?e=fb0J7L)
+
 ### Module Descriptors
 [Download Level 4 (1st year) Module Descriptors](info/Level 4 Modules-20210525.zip)
 
