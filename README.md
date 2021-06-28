@@ -1,7 +1,7 @@
 # BSC (HONS) DIGITAL AND TECHNOLOGY SOLUTIONS (BDATS)
 ![](images/cisco-labs-banner.jpg)
 
-As a Digital Technology Solutions apprentice, you will be guided by a curriculum that has been developed in association with BT, HP, IBM and GSM to develop the skills relevant to your specific job role. Depending on which route you and your employer choose, you will have the opportunity to learn valuable industry knowledge which will prepare you for accreditations from CISCO and the EC-Council.
+As a Digital Technology Solutions degree apprentice, you will be guided by a curriculum that has been developed in association with BT, HP, IBM and GSM to develop the skills relevant to your specific job role. Depending on which route you and your employer choose, you will have the opportunity to learn valuable industry knowledge which will prepare you for accreditations from CISCO and the EC-Council.
 
 Throughout the apprenticeship, you'll gain core technical knowledge that encompasses project management, business strategy, developing and delivering technology and software solutions, computer networking, and data management.
 
@@ -101,7 +101,9 @@ Thursdays - 3rd Year (Level 6)
 
 In some cases study days might be on a different day than above this will be done in consultation with you and your employer
 
-[Download the Module delivery diagram for all pathways](DATS_MAP_SEPT_JAN_START_v10-5-2021.pdf)
+[Download the Module delivery diagram for all pathways](info/DATS_MAP_SEPT_JAN_START_v10-5-2021.pdf)
+
+[This spreadsheet shows the delivery of all pathways by semester](https://ssu-my.sharepoint.com/:x:/g/personal/martin_reid_solent_ac_uk/Eedlc3BnwzVDqgEjm50ngqcB_enMAwsiFWet4LEmFrgPgw?e=fb0J7L)
 
 ### Module Descriptors
 [Download Level 4 (1st year) Module Descriptors](info/Level 4 Modules-20210525.zip)
