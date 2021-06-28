@@ -10,6 +10,12 @@ Throughout the apprenticeship, you'll gain core technical knowledge that encompa
 
 [Apprenticeships: A guide for employers](https://www.solent.ac.uk/courses/info/higher-degree-apprenticeships/apprenticeships-guide-employers)
 
+We currently offer the digital and technology solutions professional pathway aligned to the Institute for Apprenticeships standard.
+
+[BSc Digital Technology Solutions (Apprentice) Standard](https://www.instituteforapprenticeships.org/apprenticeship-standards/digital-and-technology-solutions-professional-integrated-degree/)
+
+
+
 
 ![Martin Reid](images/martin-reid-1.jpg)
 
