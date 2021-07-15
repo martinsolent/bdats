@@ -95,9 +95,9 @@ What will be my university study day 2021?
 
 1st Year (Level 4) - Fridays
 
-2nd Year (Level 5) - Wednesdays
+2nd Year (Level 5) - TBC
 
-3rd Year (Level 6) - Thursdays
+3rd Year (Level 6) - TBC
 
 In some cases study days might be on a different day than above this will be done in consultation with you and your employer
 
