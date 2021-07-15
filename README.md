@@ -91,13 +91,13 @@ Business analysts are responsible for assessing the impact of change - capturing
 
 ## Study Days
 
-What will be my university study day?
+What will be my university study day 2021?
 
-Tuesdays - 1st Year (Level 4)
+1st Year (Level 4) - Fridays
 
-Wednesdays - 2nd Year (Level 5)
+2nd Year (Level 5) - Wednesdays
 
-Thursdays - 3rd Year (Level 6)
+3rd Year (Level 6) - Thursdays
 
 In some cases study days might be on a different day than above this will be done in consultation with you and your employer
 
