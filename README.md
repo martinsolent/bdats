@@ -91,17 +91,37 @@ Business analysts are responsible for assessing the impact of change - capturing
 
 ## Study Days
 
+he Academic year is delivered over 3 semesters with 2 modules per semester 
+
+[This spreadsheet shows the delivery of all pathways by semester](https://ssu-my.sharepoint.com/:x:/g/personal/martin_reid_solent_ac_uk/Eedlc3BnwzVDqgEjm50ngqcB_enMAwsiFWet4LEmFrgPgw?e=fb0J7L)
+
+[Solent University Academic calendar for 2021-22](info/academic-calendar-2021-22.pdf)
+
 What will be my university study day 2021?
 
-1st Year (Level 4) - Fridays
+**1st Year (Level 4)**
 
-2nd Year (Level 5) - TBC
+* Semester 1 - Fridays
+* Semester 2 - TBC
+* Semester 3 - Tuesday
 
-3rd Year (Level 6) - TBC
+**2nd Year (Level 5)**
 
-In some cases study days might be on a different day than above this will be done in consultation with you and your employer
+* Semester 1 - TBC
+* Semester 2 - TBC
+* Semester 3 - Wednesday
+
+**3rd Year (Level 6)**
+
+* Semester 1 - TBC
+* Semester 2 - TBC
+* Semester 3 - Thursday
+
+
 
 [Download the Module delivery diagram for all pathways](info/DATS_MAP_SEPT_JAN_START_v10-5-2021.pdf)
+
+The Academic year is delivered over 3 semesters with 2 modules per semester 
 
 [This spreadsheet shows the delivery of all pathways by semester](https://ssu-my.sharepoint.com/:x:/g/personal/martin_reid_solent_ac_uk/Eedlc3BnwzVDqgEjm50ngqcB_enMAwsiFWet4LEmFrgPgw?e=fb0J7L)
 
