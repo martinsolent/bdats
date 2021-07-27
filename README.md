@@ -101,21 +101,21 @@ What will be my university study day 2021?
 
 **1st Year (Level 4)**
 
-* Semester 1 - Fridays
-* Semester 2 - TBC
-* Semester 3 - Tuesday
+* Semester 1 (Sept-Jan) - Fridays
+* Semester 2 (Jan-May) - TBC
+* Semester 3 (May-Sept) - Tuesday
 
 **2nd Year (Level 5)**
 
-* Semester 1 - TBC
-* Semester 2 - TBC
-* Semester 3 - Wednesday
+* Semester 1 (Sept-Jan) - Wednesday
+* Semester 2 (Jan-May) - TBC
+* Semester 3 (May-Sept) - Wednesday
 
 **3rd Year (Level 6)**
 
-* Semester 1 - TBC
-* Semester 2 - TBC
-* Semester 3 - Thursday
+* Semester 1 (Sept-Jan) - Cyber Security & Network Engineer: Tuesdays & other pathways: Thursdays
+* Semester 2 (Jan-May) - TBC
+* Semester 3 (May-Sept) - Thursday
 
 
 
