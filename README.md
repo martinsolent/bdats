@@ -25,6 +25,28 @@ Course Leader and Apprenticeship Programme Manager - Digital
 
 martin.reid@solent.ac.uk 
 
+## Induction Day Friday 17th September 2021
+
+Induction day will take place on Friday 17th September 2021 on campus between 9 am and 12 noon and online activities in the afternoon.
+
+Location East Park Terrace campus Spark Building in room TS517.
+
+![spark](images/the-spark-7-w1200.jpg)
+
+[Solent University East Park Terrace Campus map](https://www.solent.ac.uk/about/documents/east-park-terrace-campus-map.pdf)
+
+[solent.ac.uk/about/find-us](https://www.solent.ac.uk/about/find-us)
+
+![Schedule](images/app_induct_17_9_2021.png)
+
+### Online Induction Activities
+
+[solent.ac.uk/hello-uni/welcome-week-and-enrolment](https://www.solent.ac.uk/hello-uni/welcome-week-and-enrolment)
+			
+[learn.solent.ac.uk/induction](https://learn.solent.ac.uk/induction)
+				
+[libguides.solent.ac.uk/solentlibrary](https://libguides.solent.ac.uk/solentlibrary)				
+
 ## Introduction to Computing  Apprenticeships at Solent University
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=a7159d29-1e9e-459d-a695-ac3b01722c27&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
