@@ -14,9 +14,11 @@ We currently offer the digital and technology solutions professional pathway ali
 
 [BSc Digital Technology Solutions (Apprentice) Standard](https://www.instituteforapprenticeships.org/apprenticeship-standards/digital-and-technology-solutions-professional-integrated-degree/)
 
+## Induction Week Presentation 2021-22
 
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=b0b14943-b23a-4114-8a28-ada801008324&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
-
+		
 ![Martin Reid](images/martin-reid-1.jpg)
 
 ### Martin Reid
@@ -24,6 +26,8 @@ We currently offer the digital and technology solutions professional pathway ali
 Course Leader and Apprenticeship Programme Manager - Digital
 
 martin.reid@solent.ac.uk 
+
+<!--
 
 ## Induction Day Friday 17th September 2021
 
@@ -45,7 +49,9 @@ Location East Park Terrace campus Spark Building in room TS517.
 			
 [learn.solent.ac.uk/induction](https://learn.solent.ac.uk/induction)
 				
-[libguides.solent.ac.uk/solentlibrary](https://libguides.solent.ac.uk/solentlibrary)				
+[libguides.solent.ac.uk/solentlibrary](https://libguides.solent.ac.uk/solentlibrary)	
+
+-->			
 
 ## Introduction to Computing  Apprenticeships at Solent University
 
