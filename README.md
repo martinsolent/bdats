@@ -18,14 +18,17 @@ We currently offer the digital and technology solutions professional pathway ali
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=b0b14943-b23a-4114-8a28-ada801008324&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
-		
 ![Martin Reid](images/martin-reid-1.jpg)
 
-### Martin Reid
+**Martin Reid** - Course Leader and Apprenticeship Programme Manager - Digital
 
-Course Leader and Apprenticeship Programme Manager - Digital
+martin.reid@solent.ac.uk
 
-martin.reid@solent.ac.uk 
+
+
+		
+
+
 
 <!--
 
