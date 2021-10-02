@@ -21,20 +21,11 @@ We currently offer the digital and technology solutions professional pathway ali
 
 ## Martin Reid - Course Leader & Apprenticeship Programme Manager|
 
+![Martin Reid](images/martin-reid-1.jpg) 
 
-| ![Martin Reid](images/martin-reid-1.jpg) martin.reid@solent.ac.uk | Martin looks after the academic organisation of the apprenticeship courses in the computing subject group at Solent University.|
-| ---- | :---- |
+martin.reid@solent.ac.uk
 
-
-
-
-
-
-
-
-
-		
-
+Martin looks after the academic organisation of the apprenticeship courses in the computing subject group at Solent University.
 
 
 <!--
