@@ -20,6 +20,10 @@ We currently offer the digital and technology solutions professional pathway ali
 
 [GATEWAY EPA GUIDANCE](gateway_epa.md){: .btn .btn-purple } 
 
+[Link button](http://example.com/){: .btn .btn-purple }
+[Link button](http://example.com/){: .btn .btn-blue }
+[Link button](http://example.com/){: .btn .btn-green }
+
 ## Induction Week Presentation 2021-22
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=b0b14943-b23a-4114-8a28-ada801008324&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
