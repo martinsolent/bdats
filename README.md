@@ -21,7 +21,9 @@ We currently offer the digital and technology solutions professional pathway ali
 [GATEWAY EPA GUIDANCE](gateway_epa.md){: .btn .btn-purple } 
 
 [Link button](http://example.com/){: .btn .btn-purple }
+
 [Link button](http://example.com/){: .btn .btn-blue }
+
 [Link button](http://example.com/){: .btn .btn-green }
 
 ## Induction Week Presentation 2021-22
