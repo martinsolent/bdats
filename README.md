@@ -1,4 +1,7 @@
 # BSC (HONS) DIGITAL AND TECHNOLOGY SOLUTIONS (BDATS)
+
+## Solent University Southampton
+
 ![](images/cisco-labs-banner.jpg)
 
 As a Digital Technology Solutions degree apprentice, you will be guided by a curriculum that has been developed in association with BT, HP, IBM and GSM to develop the skills relevant to your specific job role. Depending on which route you and your employer choose, you will have the opportunity to learn valuable industry knowledge which will prepare you for accreditations from CISCO and the EC-Council.
@@ -13,6 +16,9 @@ Throughout the apprenticeship, you'll gain core technical knowledge that encompa
 We currently offer the digital and technology solutions professional pathway aligned to the Institute for Apprenticeships standard.
 
 [BSc Digital Technology Solutions (Apprentice) Standard](https://www.instituteforapprenticeships.org/apprenticeship-standards/digital-and-technology-solutions-professional-integrated-degree/)
+
+
+[GATEWAY EPA GUIDANCE](https://twitter.com/WebDevSolent){: .btn .btn-purple } 
 
 ## Induction Week Presentation 2021-22
 
