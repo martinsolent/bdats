@@ -18,7 +18,7 @@ We currently offer the digital and technology solutions professional pathway ali
 [BSc Digital Technology Solutions (Apprentice) Standard](https://www.instituteforapprenticeships.org/apprenticeship-standards/digital-and-technology-solutions-professional-integrated-degree/)
 
 
-[GATEWAY EPA GUIDANCE](gateway_epa.md){: .btn .btn-purple} 
+[GATEWAY EPA GUIDANCE](gateway_epa.md){: .btn .btn-purple } 
 
 ## Induction Week Presentation 2021-22
 
