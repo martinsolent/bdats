@@ -8,6 +8,8 @@ As a Digital Technology Solutions degree apprentice, you will be guided by a cur
 
 Throughout the apprenticeship, you'll gain core technical knowledge that encompasses project management, business strategy, developing and delivering technology and software solutions, computer networking, and data management.
 
+**New intakes every September**
+
 
 [(BSc (Hons) Digital and Technology Solutions (Apprenticeship)](https://www.solent.ac.uk/courses/apprenticeship/digital-technology-solutions-bsc)
 
@@ -63,15 +65,13 @@ Location East Park Terrace campus Spark Building in room TS517.
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=a7159d29-1e9e-459d-a695-ac3b01722c27&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
-## The apprenticeship offers a number of pathways, depending on where you wish to specialise:
-
+## The apprenticeship offers four pathways from 2022, depending on your job role:
 
 * Software Engineer
 * Network Engineer 
 * Data Analyst 
 * Cybersecurity Specialist
-* IT Consultant
-* Business Analyst
+<!--- * IT Consultant * Business Analyst --->
 
 ### Software Engineer
 
@@ -107,6 +107,7 @@ A cyber security specialist is responsible for the implementation, maintenance a
 
 ![](info/DATS_CYBER.png)
 
+<!---
 ### IT Consultant
 
 ![IT Consultant](images/christin-hume-mfB1B1s4sMc-unsplash.jpg)
@@ -123,6 +124,8 @@ Business analysts are responsible for assessing the impact of change - capturing
 
 ![](info/DATS_BUS_AN.png)
 
+--->
+
 ## Study Days
 
 he Academic year is delivered over 3 semesters with 2 modules per semester 
@@ -131,25 +134,25 @@ he Academic year is delivered over 3 semesters with 2 modules per semester
 
 [Solent University Academic calendar for 2021-22](info/academic-calendar-2021-22.pdf)
 
-What will be my university study day 2021?
+What will be my university study day 2021-22?
 
 **1st Year (Level 4)**
 
 * Semester 1 (Sept-Jan) - Fridays
-* Semester 2 (Jan-May) - TBC
+* Semester 2 (Jan-May) - Tuesday
 * Semester 3 (May-Sept) - Tuesday
 
 **2nd Year (Level 5)**
 
 * Semester 1 (Sept-Jan) - Wednesday
-* Semester 2 (Jan-May) - TBC
+* Semester 2 (Jan-May) - Wednesday
 * Semester 3 (May-Sept) - Wednesday
 
 **3rd Year (Level 6)**
 
 * Semester 1 (Sept-Jan) - Cyber Security & Network Engineer: Tuesdays & other pathways: Thursdays
-* Semester 2 (Jan-May) - TBC
-* Semester 3 (May-Sept) - Thursday
+* Semester 2 (Jan-May) - Thursdays
+* Semester 3 (May-Sept) - Various check timetable
 
 
 
