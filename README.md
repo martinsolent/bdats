@@ -156,7 +156,7 @@ What will be my university study day 2021-22?
 
 
 
-[Download the Module delivery diagram for all pathways](info/DATS_MAP_SEPT_JAN_START_v10-5-2021.pdf)
+[Download the Module delivery diagram for all pathways](info/DATS_MAP_SEPT_JAN_START_v20-3-2022)
 
 The Academic year is delivered over 3 semesters with 2 modules per semester 
 
