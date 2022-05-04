@@ -5,9 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-# BSC (HONS) DIGITAL AND TECHNOLOGY SOLUTIONS (BDATS)
-
-## Solent University Southampton
+# BSC (HONS) DIGITAL AND TECHNOLOGY SOLUTIONS (BDATS) Solent University Southampton
 
 ![](images/cisco-labs-banner.jpg)
 
@@ -29,19 +27,7 @@ Throughout the apprenticeship, you'll gain core technical knowledge that encompa
 * Data Analyst 
 * Cybersecurity Specialist
 
-[BSc Digital Technology Solutions (Apprentice) Standard](https://www.instituteforapprenticeships.org/apprenticeship-standards/digital-and-technology-solutions-professional-integrated-degree/)
+## Introduction to Computing  Apprenticeships at Solent University
 
-[GATEWAY EPA GUIDANCE](gateway_epa.md)
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=a7159d29-1e9e-459d-a695-ac3b01722c27&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
-### Induction Week Presentation 2021-22
-
-<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=b0b14943-b23a-4114-8a28-ada801008324&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
-
-
-#### Martin Reid - Course Leader & Apprenticeship Programme Manager
-
-![Martin Reid](images/martin-reid-1.jpg) 
-
-martin.reid@solent.ac.uk
-
-Martin looks after the academic organisation of the apprenticeship courses in the computing subject group at Solent University.
