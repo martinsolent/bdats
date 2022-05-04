@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Apprenticeships
-nav_order: 23
+nav_order: 2
 has_children: true
 ---
 
