@@ -19,15 +19,22 @@ You have already been assessed on all the work you submitted on the course, but 
 
 You will be offered support and guidance in the final Synoptic Project Module COM625 and in following the Gateway EPA period, but to support the mapping process learning outcomes for both the core and specialism skills for each of the pathways.
 
+### EPA PACK
 Please download the Portfolio Specialist Skills Matrix, Learning Outcomes  & EPA Support Documents for your pathway to map the learning the apprenticeship learning outcomes to your Portfolio items:
 
-* [Business Analyst](info/Business_Analyst.zip)
-* [Cyber Security Specialist](info/Cyber_Security_Specialist.zip)
-* [Data analyst](info/Data_Analyst.zip)
-* [IT Consultant](info/IT_Consultant.zip)
-* [Network Engineer](info/Network_Engineer.zip)
-* [Software Engineer](info/Software_Engineer.zip)
+[Business Analyst](https://github.com/martinsolent/solent_store/raw/main/docs/BDATS_EPA_PACKS/Business_Analyst.zip){: .btn .btn-purple } 
 
+[Cyber Security Specialist](dhttps://github.com/martinsolent/solent_store/raw/main/docs/BDATS_EPA_PACKS/Cyber_Security_Specialist.zip){: .btn .btn-purple } 
+
+[Data analyst](https://github.com/martinsolent/solent_store/raw/main/docs/BDATS_EPA_PACKS/Data_Analyst.zip){: .btn .btn-purple } 
+
+[IT Consultant](https://github.com/martinsolent/solent_store/raw/main/docs/BDATS_EPA_PACKS/IT_Consultant.zip){: .btn .btn-purple }
+
+[Network Engineer](https://github.com/martinsolent/solent_store/raw/main/docs/BDATS_EPA_PACKS/Network_Engineer.zip){: .btn .btn-purple } 
+
+[Software Engineer](https://github.com/martinsolent/solent_store/raw/main/docs/BDATS_EPA_PACKS/Software_Engineer.zip){: .btn .btn-purple } 
+
+You will upload your completed portfolio together with a learning outcome mapping grid in the Gateway EPA period.
 ### Gateway EPA Checklist
 
 Gateway EPA take place in the EPA period following on from the completion of all credited on-programme modules at the end of 3rd year.
@@ -39,17 +46,3 @@ Gateway EPA take place in the EPA period following on from the completion of all
 1. A signed off EPA Ready Form - signed by the apprentice, their manager & Solent University
 1. Manager/Employer Feedback - this will be feedback on the project and also on the apprenticeship as a whole covering the value that the apprentice has offered to the organisation. (500 words max)
 1. All documents are available above. Once completed please ZIP them up and submit them on the Portfolio upload link.
-
-
-
-[Business Analyst](docs/portfolio_LO/Business analyst_LO.docx){: .btn .btn-purple } 
-
-[Cyber Security Specialist](docs/portfolio_LO/Cyber Security Specialist_LO.docx){: .btn .btn-purple } 
-
-[Data analyst](docs/portfolio_LO/Data analyst_LO.docx){: .btn .btn-purple } 
-
-[Network Engineer](docs/portfolio_LO/Network Engineer_LO.docx){: .btn .btn-purple } 
-
-[Software Engineer](docs/portfolio_LO/Software Engineer_LO.docx){: .btn .btn-purple } 
-
-You will upload your completed portfolio together with a learning outcome mapping grid in the Gateway EPA period.
