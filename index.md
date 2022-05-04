@@ -1,11 +1,10 @@
 ---
 layout: default
-title: BDATS at Solent University Introduction
+title: Solent BDATS Introduction
 nav_order: 1
 permalink: /
 ---
 
-# Introduction
 # BSC (HONS) DIGITAL AND TECHNOLOGY SOLUTIONS (BDATS)
 
 ## Solent University Southampton
