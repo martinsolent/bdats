@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BDATS - Data Analyst
+title: Data Analyst
 parent: Pathways
 nav_order: 3
 ---

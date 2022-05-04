@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BDATS - Software Engineer
+title: Software Engineer
 parent: Pathways
 nav_order: 5
 ---

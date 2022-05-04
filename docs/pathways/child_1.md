@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pathways - Cybersecurity Specialist
+title: Cybersecurity Specialist
 parent: Pathways
 nav_order: 2
 ---

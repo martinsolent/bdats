@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BDATS - Network Engineer
+title: Network Engineer
 parent: Pathways
 nav_order: 4
 ---
