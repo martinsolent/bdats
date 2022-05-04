@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Apprenticeships - British Values, Prevent & Safeguarding
-parent: Apprenticeships
-nav_order: 11
+nav_order: 18
 ---
 
 {: .no_toc }
