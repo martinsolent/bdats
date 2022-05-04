@@ -22,10 +22,12 @@ Throughout the apprenticeship, you'll gain core technical knowledge that encompa
 
 ### The apprenticeship offers four pathways from 2022, depending on your job role:
 
-* Software Engineer
-* Network Engineer 
-* Data Analyst 
 * Cybersecurity Specialist
+* Data Analyst
+* Network Engineer 
+* Software Engineer
+
+[Pathway Details](https://martinsolent.github.io/bdats/docs/pathways/){: .btn .btn-purple }
 
 ## Introduction to Computing  Apprenticeships at Solent University
 
