@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BDATS - Cybersecurity Specialist
+title: Pathways - Cybersecurity Specialist
 parent: Pathways
 nav_order: 2
 ---
