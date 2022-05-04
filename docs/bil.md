@@ -1,13 +1,14 @@
 ---
 layout: default
-title: Apprenticeships - Learning Breaks & Withdrawal
-parent: Apprenticeships
-nav_order: 15
+title: Learning Breaks & Withdrawal (BiL)
+nav_order: 12
 ---
 
 {: .no_toc }
 
 # Apprenticeships - Learning Breaks & Withdrawal
+
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=c3c0677e-d2e5-4dbc-b893-adc500bd3a86&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 ### Advice to give to an Apprentice
 
@@ -28,10 +29,10 @@ Please use the appropriate form below, the apprentice and their employer needs t
 
 [Download Withdrawal Form](https://github.com/martinsolent/solent_store/raw/main/docs/Apprenticed_withdrawal.docx){: .btn .btn-purple } 
 
-[Download Break in Learning Form](https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/Ee9w_t9gBIZNm08u8aqy5oQBCQX6Bb2hxEWsLV0TZGIbOA?e=oHAPML){: .btn .btn-purple } 
+[Download Break in Learning Form](https://github.com/martinsolent/solent_store/raw/main/docs/BiL.docx){: .btn .btn-purple } 
 
 
-[Download Return to Studies From](9https://ssu-my.sharepoint.com/:w:/g/personal/martin_reid_solent_ac_uk/EUQNN_9EIqdBo6sqBGSvf2ABF-rHfoAjNG6_El6t4OeA-A?e=3Qzrqn){: .btn .btn-purple } 
+[Download Return to Studies From](https://github.com/martinsolent/solent_store/raw/main/docs/APPRENTICESHIP%20RETURN%20FROM%20BREAK%20IN%20LEARNING.docx){: .btn .btn-purple } 
 
 ![](./images/Withdrawal.png)
 
