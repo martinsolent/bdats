@@ -23,18 +23,23 @@ Throughout the apprenticeship, you'll gain core technical knowledge that encompa
 
 [Apprenticeships: A guide for employers](https://www.solent.ac.uk/courses/info/higher-degree-apprenticeships/apprenticeships-guide-employers)
 
-We currently offer the digital and technology solutions professional pathway aligned to the Institute for Apprenticeships standard.
+### The apprenticeship offers four pathways from 2022, depending on your job role:
+
+* Software Engineer
+* Network Engineer 
+* Data Analyst 
+* Cybersecurity Specialist
 
 [BSc Digital Technology Solutions (Apprentice) Standard](https://www.instituteforapprenticeships.org/apprenticeship-standards/digital-and-technology-solutions-professional-integrated-degree/)
 
 [GATEWAY EPA GUIDANCE](gateway_epa.md)
 
-## Induction Week Presentation 2021-22
+### Induction Week Presentation 2021-22
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=b0b14943-b23a-4114-8a28-ada801008324&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 
-## Martin Reid - Course Leader & Apprenticeship Programme Manager|
+#### Martin Reid - Course Leader & Apprenticeship Programme Manager
 
 ![Martin Reid](images/martin-reid-1.jpg) 
 
