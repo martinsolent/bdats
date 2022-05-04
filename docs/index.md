@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Section 2
-nav_order: 5
+title: Apprenticeships
+nav_order: 23
 has_children: true
 ---
 
 {: .no_toc }
 
-# Section 2
+# Apprenticeships
+
