@@ -1,16 +1,17 @@
 ---
 layout: default
-title: BDATS - Cybersecurity Specialist
+title: BDATS - Data Analyst
 parent: pathways
-nav_order: 1
+nav_order: 3
 ---
 
 {: .no_toc }
 
-#  BDATS - Cybersecurity Specialist
+#  BDATS - Data Analyst
 
-![Cyber Security Specialist](../images/trello_course_structure_images_2020_0011_cyber.png)
+![Data Analyst](../images/trello_course_structure_images_2020_0002_nesa-by-makers-IgUR1iX0mqM-unsplash.png)
 
-A cyber security specialist is responsible for the implementation, maintenance and support of the security controls that protect an organisation’s systems and data assets, ensuring security technologies and practices are operating in accordance with the organisation's policies and standards to provide continued protection. They are responsible for performing vulnerability assessments to evaluate an organisation's ongoing security and provide visibility to management of the main risks and control status on an ongoing basis. They also respond to security incidents and implement resolution activities across an organisation. Cyber security specialists require a broad understanding of network infrastructure, software and data to identify where threat and hazard can occur.
+The role of a data analyst is to collect, organise and study data that can provide new business insight. This data is then compiled and used to inform decision making at all levels of the business. A data analyst is involved with managing, cleansing, abstracting and aggregate data across the network infrastructure. They also have a good understanding of data structures, software development procedures and the tools used to undertake standard and custom analytical studies, providing data solutions to a range of business issues.
 
-![](../info/DATS_CYBER.png)
+![](../info/DATS_DATA_AN.png)
+

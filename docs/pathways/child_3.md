@@ -1,17 +1,17 @@
 ---
 layout: default
-title: BDATS - Data Analyst
+title: BDATS - Network Engineer
 parent: pathways
-nav_order: 2
+nav_order: 4
 ---
 
 {: .no_toc }
 
-#  BDATS - Data Analyst
+#  BDATS - Network Engineer
 
-![Data Analyst](../images/trello_course_structure_images_2020_0002_nesa-by-makers-IgUR1iX0mqM-unsplash.png)
+![Network Engineer](../images/trello_course_structure_images_2020_0009_network.png)
 
-The role of a data analyst is to collect, organise and study data that can provide new business insight. This data is then compiled and used to inform decision making at all levels of the business. A data analyst is involved with managing, cleansing, abstracting and aggregate data across the network infrastructure. They also have a good understanding of data structures, software development procedures and the tools used to undertake standard and custom analytical studies, providing data solutions to a range of business issues.
 
-![](../info/DATS_DATA_AN.png)
+The primary role of a network engineer is to design, install, maintain and support communication networks within an organisation or between organisations. They need to maintain high levels of network performance and availability for users. They must also understand network configuration, cloud, network administration, and monitoring tools, and be able to give technical advice and guidance. Network engineers must be proficient in technology solutions to be able to analyse system requirements to ensure the network and its services operate to desired levels. Network engineers also understand data traffic and transmission across the network and have a major role to play in ensuring network security.
 
+![](../info/DATS_NET_ENG-1.png)
