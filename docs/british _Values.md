@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Apprenticeships - British Values, Prevent & Safeguarding
+title: British Values & Safeguarding
 nav_order: 18
 ---
 
