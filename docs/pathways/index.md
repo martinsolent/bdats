@@ -9,4 +9,4 @@ has_children: true
 
 #  BDATS Pathways
 
-Test text
+The BDATS apprenticeship offers four pathways from depending on your job role
