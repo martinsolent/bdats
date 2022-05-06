@@ -8,7 +8,7 @@ nav_order: 20
 
 # Study Days
 
-The Academic year is delivered over 3 semesters with 2 modules per semester 
+The Academic year is delivered over 3 semesters with BDATS 2 modules &  HNC L4 1 modules per semester 
 
 [Solent University Academic calendar for 2022-23](https://students.solent.ac.uk/official-documents/policy-governance-and-information/academic-calendar-2022-23.pdf)
 
