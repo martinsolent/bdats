@@ -8,7 +8,9 @@ nav_order: 20
 
 # Study Days
 
-The Academic year is delivered over 3 semesters with BDATS 2 modules &  HNC L4 1 modules per semester 
+![windows-v94mlgvsza4-unsplash.jpg](./images/windows-v94mlgvsza4-unsplash.jpg)
+
+The Academic year is delivered over 3 semesters with BDATS 2 modules &  HNC L4 1 module per semester 
 
 [Solent University Academic calendar for 2022-23](https://students.solent.ac.uk/official-documents/policy-governance-and-information/academic-calendar-2022-23.pdf)
 
@@ -16,7 +18,7 @@ The Academic year is delivered over 3 semesters with BDATS 2 modules &  HNC L4 1
 
 What will be my university study day 2022-23?
 
-As a default we'd aim to have first years on Tuesdays, second years on Wednesdays and Thursdays for third years, but due demand on resources this is not always possible, but we will confirm study days in advance of you starting the course or progressing to the next level/year.
+As a default we aim to have first years on Tuesdays, second years on Wednesdays and Thursdays for third years, but due demand on resources this is not always possible, but we will confirm study days in advance of you starting the course or progressing to the next level/year.
 
 **1st Year (Level 4)**
 

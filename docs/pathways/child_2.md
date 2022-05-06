@@ -15,3 +15,4 @@ The role of a data analyst is to collect, organise and study data that can provi
 
 ![](../info/DATS_DATA_AN.png)
 
+Download Module Descriptor
