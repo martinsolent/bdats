@@ -2,7 +2,7 @@
 layout: default
 title: Apprenticeships - Reviews
 parent: Apprenticeships
-nav_order: 6
+nav_order: 50
 ---
 
 {: .no_toc }
@@ -17,7 +17,7 @@ The review meetings will track progress against the knowledge, skills and behavi
 
 Review meetings are undertaken by Kenton Wheeler and Martin Reid
 
-![](../images/kenton_martin.png)
+![](images/kenton_martin.png)
 
 
 Apprentices & their Managers need to complete the Review Template & apprentice should upload it to BDATS SOL beforehand and we will then go through it in the meeting.
