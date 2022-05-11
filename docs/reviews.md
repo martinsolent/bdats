@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Apprenticeships - Reviews
-parent: Apprenticeships
-nav_order: 50
+title: Reviews
+nav_order: 35
 ---
 
 {: .no_toc }
