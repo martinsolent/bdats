@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Learning Breaks & Withdrawal
+title: Breaks & Withdrawal
 nav_order: 12
 ---
 
 {: .no_toc }
 
-# Apprenticeships - Learning Breaks & Withdrawal
+# Learning Breaks & Withdrawal
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=c3c0677e-d2e5-4dbc-b893-adc500bd3a86&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
