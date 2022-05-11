@@ -9,4 +9,4 @@ has_children: true
 
 #  BDATS Pathways
 
-The BDATS apprenticeship offers four pathways from depending on your job role
+The BDATS apprenticeship offers four pathways depending on your job role
