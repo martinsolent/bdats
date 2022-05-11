@@ -9,8 +9,6 @@ nav_order: 2
 
 #  BDATS - End Point Assessment (EPA)
 
-**Solent University, East Park Terrace, Southampton, SO14 0YN  - End Point assessor ID: EPA0325**
-
 Solent University, East Park Terrace, Southampton, SO14 0YN   **[End Point Assessor Organisation (EPAO) ID: EPA0325](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1023443/Register_List_Of_Organisations_Oct_2021.xlsx)**
 
 **You will work on your work based Synoptic Project in the final on programme module COM625 before moving into Gateway EPA in the final three months of the apprenticeship, in this time you will prepare for your presentation to the independent assessor and upload your completed annotated portfolio that will map to knowledge skills and behaviours of the [standard.](https://www.instituteforapprenticeships.org/apprenticeship-standards/digital-and-technology-solutions-professional-integrated-degree/)**
