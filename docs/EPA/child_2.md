@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ## Synoptic Project
+title: Synoptic Project
 parent: EPA
 nav_order: 3
 ---
