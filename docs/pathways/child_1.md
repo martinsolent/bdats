@@ -15,4 +15,4 @@ A cyber security specialist is responsible for the implementation, maintenance a
 
 ![](../info/DATS_CYBER.png)
 
-Download Module Descriptor
+Module Details

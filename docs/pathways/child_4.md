@@ -15,5 +15,4 @@ A Software Engineer needs to be able to design, develop, build and test high-qua
 
 ![](../info/DATS_SOFT_ENG.png)
 
-
-Download Module Descriptor
+Module Details

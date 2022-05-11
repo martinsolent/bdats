@@ -16,4 +16,4 @@ The primary role of a network engineer is to design, install, maintain and suppo
 
 ![](../info/DATS_NET_ENG-1.png
 
-Download Module Descriptor
+Module Details
