@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-# BSC (HONS) DIGITAL AND TECHNOLOGY SOLUTIONS (BDATS) Solent University Southampton
+# BSc (HONS) DIGITAL AND TECHNOLOGY SOLUTIONS at Solent University Southampton
 
 ![](./docs/images/cisco-labs-banner.jpg)
 
