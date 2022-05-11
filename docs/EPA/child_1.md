@@ -18,7 +18,7 @@ Solent University, East Park Terrace, Southampton, SO14 0YN   **[End Point Ass
 **Assessment Overview**  
 The delivery of the apprenticeship by the university provides an integrated approach to developing and assessing skills and knowledge across the range of modules in the degree programme. Each university will develop its own degree programme and will map the individual modules to the outcomes in the standard. Individual modules will contribute formative assessment to the skills, knowledge and behaviour outcomes en-route to the final synoptic project and presentation. The final synoptic project is a substantial piece of work, typically taking around 6 months to undertake alongside the apprentices normal duties to their employer. The endpoint assessment integrates the project outcomes and presentation into the overall synoptic project assessment. It is this endpoint assessment that will be judged against the standard, and test the skills, knowledge and behaviours together as applied through the project.
 
-**Synoptic project assessment ** 
+### Synoptic project assessment
   
 The synoptic project is a work based project that broadly represents the skills, knowledge and behaviours in the standard. The project will provide substantive evidence from a business-related project to demonstrate the application of skills and knowledge. The endpoint assessment integrates the project outcomes and presentation into the overall synoptic project assessment. It will take place over a period of around 6 months, near the end of the programme. It is designed to assess apprentices in a consistent way, irrespective of their particular workplace and university. Because of the significance of the project the employer and university should work together with the apprentice to agree a project that is achievable within the employer’s business constraints and that meets the requirements of the standard. The project should be conducted as part of the apprentice’s normal work. Employers should make suitable allowance for the project to be undertaken, both in terms of time and resources. However, there are some elements such as the writing of the report, particularly in its reflective aspects that may be undertaken outside of normal work. This should be agreed between apprentice, employer and university such that apprentices are not disadvantaged in any way from performing their job and meeting the requirements of the project.
 
@@ -77,8 +77,7 @@ The project will cover all of the specialism skills, knowledge and behaviours as
       
     
 * **Network Engineer:** Plan, design, build and test a simple network to a requirement specification that includes hubs, switches, routers and wireless user devices applying appropriate security products and processes.  
-      
-    
+
 
 #### Practical Requirements for the design of Synoptic Projects
 
@@ -88,8 +87,7 @@ The project will cover all of the specialism skills, knowledge and behaviours as
 * Terms of reference developed by the apprentice and agreed by the university and employer early in the project.
 * University to provide clear project assessment criteria including terms of reference, approach to the problem, the design of the solution, the implementation of the solution, the final report and presentation etc.
 
-####   
-Practical Requirements for the delivery of Synoptic Projects
+####  Practical Requirements for the delivery of Synoptic Projects
 
 * Universities will work with the employer and apprentice to agree suitable project title and support arrangements for the project to be undertaken.
 * The project should normally be based an agreed business problem that forms part of the apprentices role.
@@ -108,7 +106,7 @@ Practical Requirements for the delivery of Synoptic Projects
 * Someone responsible for managing the project from the employer perspective.
 * The university project tutor will oversee and provide support to the apprentice.
 
-###   The Presentation
+###  The Presentation
 
 The presentation is a structured discussion between the apprentice and their university lecturers and employer, focusing on the outcomes of the synoptic project. It covers both what the apprentice has done, the standard of their work, and also how they have done it. Typically this is the approach taken in university individual projects. This enables the assessment to include the assessment of skills, knowledge and behaviours as required by the standard.  
   
