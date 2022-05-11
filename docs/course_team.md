@@ -96,3 +96,6 @@ warren.earle@solent.ac.uk
 #### [Dr. Jarutas Andritsch](https://www.solent.ac.uk/staff-profiles/jarutas-andritsch) **- Lecturer in Computing**
 
 jarutas.andritsch@solent.ac.uk
+
+
+[Internal link to course team on SOL](https://learn.solent.ac.uk/course/view.php?id=22663&section=1)
