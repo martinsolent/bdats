@@ -1,6 +1,6 @@
 ---
 layout: default
-title: End Point Assessment (EPA)
+title: End Point Assessment
 parent: EPA
 nav_order: 2
 ---
