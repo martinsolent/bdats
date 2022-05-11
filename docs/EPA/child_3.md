@@ -2,7 +2,7 @@
 layout: default
 title: ## Synoptic Project
 parent: EPA
-nav_order: 4
+nav_order: 3
 ---
 
 {: .no_toc }
