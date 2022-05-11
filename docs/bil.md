@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning Breaks & Withdrawal (BiL)
+title: Learning Breaks & Withdrawal
 nav_order: 12
 ---
 

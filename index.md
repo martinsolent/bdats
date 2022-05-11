@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Solent BDATS Introduction
+title: Introduction
 nav_order: 1
 permalink: /
 ---
