@@ -8,7 +8,7 @@ nav_order: 30
 
 # Apprenticeships: off-the-job training
 
-![otj banner](otj.png)
+![otj Banner](images/otj.png)
 
 Off-the-job training is a statutory requirement for an English apprenticeship and must make up at least 20% of an apprentice’s normal working hours (paid hours excluding overtime) over the planned duration of the apprenticeship.
 
@@ -68,7 +68,7 @@ how to resolve queries or complaints
 **APPRENTICESHIPS.GOV.UK., 2020.** Training your apprentice [viewed 2 October 2020].
 Available from: [https://www.apprenticeships.gov.uk/employers/training-your-apprentice#](https://www.apprenticeships.gov.uk/employers/training-your-apprentice#)
 
-![Off-the-job-Myths-Facts](Off-the-job-Myths-Facts-130919.jpg)
+![Off-the-job-Myths-Facts](images/Off-the-job-Myths-Facts-130919.jpg)
 
 [Off-the-job training mythbusters](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/831594/Off-the-job-Myths-Facts-130919.pdf)
 
