@@ -1,3 +1,11 @@
+---
+layout: default
+title: off-the-job
+nav_order: 30
+---
+
+{: .no_toc }
+
 # Apprenticeships: off-the-job training
 
 ![otj banner](otj.png)
