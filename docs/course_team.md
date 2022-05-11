@@ -10,15 +10,13 @@ nav_order: 38
 
 Our diverse team consists of experienced practitioners in a broad range of computing disciplines.  Each member of our team has unique expertise which adds to our strength and helps us deliver a greater learning experience.  Our team is based in JM506 currently comprises the following members:
 
-#### [Stuart Ray](https://www.solent.ac.uk/staff/academic/stuart-ray) - **Head of Computing and Technology** |
+#### [Stuart Ray](https://www.solent.ac.uk/staff/academic/stuart-ray) - **Head of Computing and Technology** 
 
 stuart.ray@solent.ac.uk
 
-
 ### Course Leaders:
 
-#### [Martin Reid](https://www.solent.ac.uk/staff-profiles/academic-profiles/martin-reid/martin-reid) - **Apprenticeship Programme Manager – Digital and Senior Lecturer** |
-
+#### [Martin Reid](https://www.solent.ac.uk/staff-profiles/academic-profiles/martin-reid/martin-reid) - **Apprenticeship Programme Manager – Digital and Senior Lecturer** 
 
 Course Leader for:
 
