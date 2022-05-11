@@ -6,7 +6,7 @@ nav_order: 23
 
 {: .no_toc }
 
-# Apprenticeships - BDATS Knowledge, Skills and Behaviours
+# BDATS Knowledge, Skills and Behaviours
 
 
 [BDATS Standard](https://www.instituteforapprenticeships.org/apprenticeship-standards/digital-and-technology-solutions-professional-integrated-degree/){: .btn .btn-purple } 
