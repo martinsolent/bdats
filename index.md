@@ -13,7 +13,7 @@ As a Digital Technology Solutions degree apprentice, you will be guided by a cur
 
 Throughout the apprenticeship, you'll gain core technical knowledge that encompasses project management, business strategy, developing and delivering technology and software solutions, computer networking, and data management.
 
-**New intakes every September** 36 months on programme plus 3 months EPA, 39-40 weeks in total. Course delivered one day a week over 3 semester per year (level) studying 2 modules each Semester
+**New intakes every September** 36 months on programme plus 3 months EPA, 39-40 months in total. Course delivered one day a week over 3 semester per year (level) studying 2 modules each Semester
 
 
 [(BSc (Hons) Digital and Technology Solutions (Apprenticeship)](https://www.solent.ac.uk/courses/apprenticeship/digital-technology-solutions-bsc)
