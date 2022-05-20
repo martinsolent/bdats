@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tech Stacks - Object Oriented Design and Development COM619
-parent: Tech Stacks
+parent: Tech & Content Delivery
 nav_order: 11
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tech Stacks - DevOps COM619
-parent: Tech Stacks
+parent: Tech & Content Delivery
 nav_order: 10
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tech Stacks - Contemporary Web Applications COM623
-parent: Tech Stacks
+parent: Tech & Content Delivery
 nav_order: 9
 ---
 

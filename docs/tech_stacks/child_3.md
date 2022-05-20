@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tech Stacks - Intro to Data Science COM618
-parent: Tech Stacks
+parent: Tech & Content Delivery
 nav_order: 4
 ---
 

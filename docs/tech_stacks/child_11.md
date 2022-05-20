@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tech Stacks - Cloud COM614
-parent: Tech Stacks
+parent: Tech & Content Delivery
 nav_order: 11
 ---
 

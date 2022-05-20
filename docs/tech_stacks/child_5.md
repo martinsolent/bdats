@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tech Stacks - Problem Solving through Programming COM411
-parent: Tech Stacks
+parent: Tech & Content Delivery
 nav_order: 6
 ---
 

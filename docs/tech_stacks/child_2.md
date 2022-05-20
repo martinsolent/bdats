@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tech Stacks - Data Analysis, Tools & Apps COM418
-parent: Tech Stacks
+parent: Tech & Content Delivery
 nav_order: 3
 ---
 

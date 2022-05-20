@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tech Stacks - Web Application Development COM518
-parent: Tech Stacks
+parent: Tech & Content Delivery
 nav_order: 8
 ---
 
