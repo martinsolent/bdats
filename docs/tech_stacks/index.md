@@ -1,4 +1,4 @@
-u---
+---
 layout: default
 title: Tech & Content Delivery
 nav_order: 50
