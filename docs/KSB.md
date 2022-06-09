@@ -44,7 +44,7 @@ Knows and understands:
 
 ## Core Behavioural Skills
 
-####  Professional, interpersonal  and business skills
+###  Professional, interpersonal  and business skills
 
 * Fluent in written communications and able to articulate complex issues. 
 * Makes concise, engaging and well-structured verbal presentations, arguments and explanations. 
@@ -56,7 +56,7 @@ Knows and understands:
 * Able to put forward, demonstrate value and gain commitment to a moderately complex technology-oriented solution, demonstrating understanding of business need, using open questions and summarising skills and basic negotiating skills. 
 * Able to conduct effective research, using literature and other media, into IT and business related topics.
 
-#### Attributes and behaviours
+### Attributes and behaviours
 
 * Have demonstrated that they have mastered basic business disciplines, ethics and courtesies, demonstrating timeliness and focus when faced with distractions and the ability to complete tasks to a deadline with high quality.
 * Flexible attitude.
