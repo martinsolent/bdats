@@ -44,9 +44,26 @@ Knows and understands:
 
 ## Core Behavioural Skills
 
-| **Professional, interpersonal and business skills**          | **Attributes and behaviours**                                |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Fluent in written       communications and able to articulate complex issues.   Makes concise, engaging       and well-structured verbal presentations, arguments and explanations.   Able to deal with       different, competing interests within and outside the organisation with       excellent negotiation skills.   Is able to identify the       preferences, motivations, strengths and limitations of other people and       apply these insights to work more effectively with and to motivate       others.   Competent in active       listening and in leading, influencing and persuading others.   Able to give and receive       feedback constructively and incorporate it into his/her own development       and life-long learning.   Applies analytical and       critical thinking skills to Technology Solutions development and to       systematically analyse and apply structured problem-solving techniques       to complex systems and situations.   Able to put forward,       demonstrate value and gain commitment to a moderately complex technology-oriented       solution, demonstrating understanding of business need, using open       questions and summarising skills and basic negotiating skills.   Able to conduct       effective research, using literature and other media, into IT and       business-related topics. | Have demonstrated that       they have mastered basic business disciplines, ethics and courtesies,       demonstrating timeliness and focus when faced with distractions and the       ability to complete tasks to a deadline with high quality.   Flexible attitude.   Ability to perform under       pressure.   A thorough approach to       work.   Logical thinking and       creative approach to problem-solving. |
+####  Professional, interpersonal  and business skills
+
+* Fluent in written communications and able to articulate complex issues. 
+* Makes concise, engaging and well-structured verbal presentations, arguments and explanations. 
+* Able to deal with different, competing interests within and outside the organisation with excellent negotiation skills. 
+* Is able to identify the preferences, motivations, strengths and limitations of other people and apply these insights to work more effectively with and to motivate others. 
+* Competent in active listening and in leading, influencing and persuading others.
+* Able to give and receive feedback constructively and incorporate it into his/her own development and life-long learning. 
+* Applies analytical and critical thinking skills to Technology Solutions development and to systematically analyse and apply structured problem solving techniques to complex systems and situations. 
+* Able to put forward, demonstrate value and gain commitment to a moderately complex technology-oriented solution, demonstrating understanding of business need, using open questions and summarising skills and basic negotiating skills. 
+* Able to conduct effective research, using literature and other media, into IT and business related topics.
+
+#### Attributes and behaviours
+
+* Have demonstrated that they have mastered basic business disciplines, ethics and courtesies, demonstrating timeliness and focus when faced with distractions and the ability to complete tasks to a deadline with high quality.
+* Flexible attitude.
+* Ability to perform under pressure.
+* A thorough approach to work.
+* Logical thinking and creative approach to problem solving.
+
 
 ## Specialism Outcomes
 
