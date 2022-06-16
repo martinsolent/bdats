@@ -29,7 +29,7 @@ nav_order: 23
 
 ## Core Technical Knowledge
 
-Knows and understands:
+**Knows and understands:**
 
 - How business exploits     technology solutions for competitive advantage.
 - The value of technology     investments and how to formulate a business case for a new technology     solution, including estimation of both costs and bene ts.
@@ -73,7 +73,9 @@ Each of the specialisms is set out below. All apprentices will require the core 
 
 The primary role of a software engineer is to be able to design, build and test high-quality software solutions. The software engineer role is broader and with higher levels of responsibility than a software developer as they need to apply engineering principles to all stages of the software development process, from requirements, analysis and design, development and data requirements whilst ensuring security robustness is built in. They will typically be working as part of a larger collaborative team and will have responsibility for significant elements of software projects.
 
-Skills
+**Skills**
+
+**Be able to**
 
 - Create effective and     secure software solutions using contemporary software development     languages to deliver the full range of functional and non-functional     requirements using relevant development methodologies.
 - Undertake analysis and     design to create artefacts, such as use cases to produce robust software     designs.
@@ -82,9 +84,9 @@ Skills
 - Test code to ensure that     the functional and non-functional requirements have been met.
 - Deliver software solutions     using industry-standard build processes, and tools for configuration     management, version control and software build, release and deployment into     enterprise environments.
 
-Technical Knowledge
+**Technical Knowledge**
 
-Knows and understands:
+**Knows and understands:**
 
 - How to operate at all     stages of the software development lifecycle.
 - How teams work effectively     to develop software solutions embracing agile and other development     approaches.
@@ -98,11 +100,9 @@ Knows and understands:
 
 A cyber security analyst is responsible for the implementation, maintenance and support of the security controls that protect an organisation’s systems and data assets from threats and hazards. They ensure that security technologies and practices are operating in accordance with the organisation’s policies and standards to provide continued protection. They require a broad understanding of network infrastructure, software and data to identify where threat and hazard can occur. They are responsible for performing periodic vulnerability assessments to evaluate the organisation’s ongoing security posture and will provide visibility to management of the main risks and control status on an ongoing basis. They respond to security incidents and implement resolution activities across the organisation.
 
-Skills
+**Skills**
 
- 
-
-Be able to:
+**Be able to:**
 
 - Analyse and evaluate     security threats and vulnerabilities to planned and installed information     systems or services and identify how these can be mitigated against.
 - Perform security risk     assessments for a range of information systems and propose solutions.
@@ -111,9 +111,10 @@ Be able to:
 - Perform a business impact     analysis in response to a security incident and follow a disaster recovery     plan to meet elements of a given business continuity policy.
 - Conduct a range of cyber     security audit activities to demonstrate security control effectiveness
 
-Technical Knowledge
 
-Knows and understands:
+**Technical Knowledge**
+
+**Knows and understands:**
 
 - The types of security     (confidentiality, authentication; non-repudiation; service integrity) and     security big picture (network security; host OS security; physical     security).
 - The main types of common     attack techniques, including phishing, social engineering, malware,     network interception, blended techniques, denial of service and theft.
@@ -126,21 +127,28 @@ Knows and understands:
 
 The primary role of a data analyst is to collect, organise and study data to provide new business insight. They are responsible for providing up-to-date, accurate and relevant data analysis for the organisation. They are typically involved with managing, cleansing, abstracting and aggregating data across the network infrastructure. They have a good understanding of data structures, software development procedures and the range of analytical tools used to undertake a wide range of standard and custom analytical studies, providing data solutions to a range of business issues. They document and report the results of data analysis activities making recommendations to improve business performance. They need a broad grounding in technology solutions to be effective in their role.
 
-Skills
+**Skills**
 
- 
-
-Be able to:
+**Be able to:**
 
 - Import, cleanse,     transform, and validate data with the purpose of understanding or making     conclusions from the data for business decision making purposes.
 - Present data visualisation     using charts, graphs, tables, and more sophisticated visualisation tools.
 - Perform routine     statistical analyses and ad-hoc queries.
 - Use a range of analytical     techniques such as data mining, time series forecasting and modelling     techniques to identify and predict trends and patterns in data.
 - Report on conclusions     gained from analysing data using a range of statistical software tools
-- How to use and apply     industry standard tools and methods for data analysis.
-- The range of data     protection and legal issues.
-- The fundamentals of data     structures, database system design, implementation and maintenance.
-- The organisation's data     architecture.
+- Summarise and present results to a range of stakeholders making recommendations.
+
+**Technical Knowledge**
+
+**Knows and understands:**
+
+* The quality issues that can arise with data and how to avoid and/or resolve these.
+* The processes involved in carrying out data analysis projects.
+* How to use and apply industry standard tools and methods for data analysis.
+* The range of data protection and legal issues.
+* The fundamentals of data structures, database system design, implementation and maintenance.
+* The organisation's data architecture.
+
 
 ### Network Engineer
 
@@ -148,9 +156,9 @@ The primary role of a network engineer is to design, install, maintain and suppo
 
  
 
-Skills
+**Skills**
 
-Be able to:
+**Be able to:**
 
 - Plan, design, build and     test a simple network to a requirement specification that includes hubs,     switches, routers and wireless user devices, applying appropriate security     products and processes.
 - Identify the key     characteristics of a new network service and develop estimates of the     expected traffic intensity and traffic load that the network must support.
@@ -159,10 +167,10 @@ Be able to:
 - Analyse network     performance and troubleshoot typical problems in networks.
 - Identify and evaluate     network security risks and incorporate appropriate security products and     processes into network designs to increase security, resilience and     dependability.
 
-Technical Knowledge
+**Technical Knowledge**
 
-Knows and understands:
-
+**Knows and understands:
+**
 - The fundamental building     blocks  (e.g. routers, switches, hubs, storage, transmission)     and typical architectures (e.g. server/client, hub/spoke) of computers,     networks and the Internet.
 - The main features of     routing and Internet network protocols in use, their purpose     and their relationship to each other, including the physical and data link     layer (e.g. https, HTTP, SMTP, SNMP, TCP, IP, etc.).
 - The main factors that     affect network performance (e.g. the relationship between bandwidth,     number of users, nature of traffic, contention).
