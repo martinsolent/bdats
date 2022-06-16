@@ -11,6 +11,8 @@ nav_order: 23
 
 [BDATS Standard](https://www.instituteforapprenticeships.org/apprenticeship-standards/digital-and-technology-solutions-professional-integrated-degree/){: .btn .btn-purple } 
 
+Knowledge, Skills and behaviours of the learning outcomes the apprenticeship standards have been built on
+
 ## Core Skills
 
 * Information Systems: is able to critically analyse a business domain in order to identify the role of information systems, highlight issues and identify opportunities for improvement through evaluating information systems in relation to their intended purpose and effectiveness.
