@@ -37,6 +37,10 @@ See full details in the published government standard.
 
 [BDATS Standard](https://www.instituteforapprenticeships.org/apprenticeship-standards/digital-and-technology-solutions-professional-integrated-degree/)
 
+### Portfolio: Mapping KSBs
+
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=5aec8018-58b8-49c7-868c-aeb700ccb796&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
 You have 3 check-ins for a brief summary/reflection on your progress for the designated tasks:
 
 Selecting a suitable Synoptic project idea
