@@ -40,9 +40,9 @@ See full details in the published government standard.
 
 ## Project Outline
 
-To get your project going you need to write up a summary of what you intend to do and offer background and context. You will also need to highlight that you have discussed and agreed with your employer about the feasibility of undertaking this project including any potential issues (presented below) you are able to do the practical side of your project in your on-the-job hours you will be able to complete the project within the timeframe.
+To get your project going you need to write up a summary of what you intend to do and offer **background and context**. You will also need to highlight that you have **discussed and agreed with your employer** about the feasibility of undertaking this project including any potential issues (presented below) you are able to **do the practical side of your project in your on-the-job hours** and you will be able to complete the project within the timeframe.
 
-It should be no more than two sides of A4.
+It should be no more than two sides of A4 this need to be done before you start the project of before you start the COM625 module.
 
 ### Considerations for the selection of an appropriate project
 
