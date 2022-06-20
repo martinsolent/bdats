@@ -8,7 +8,7 @@ nav_order: 66
 
 # January Starts 3rd Year Summer 2022 Tasks
 
-January starters have Summer 2022 (May-August) to select an appropriate work-based project in agreement with your manager/workplace if possible carrying out some initial expiration ready to work on and compile your project in the synoptic project from January - May 2023.
+January starters have Summer 2022 to select an appropriate work-based project in agreement with your manager/workplace if possible carrying out some initial expiration ready to work on and compile your project in the Synoptic Project from January - May 2023 - if you due to study this module from Jan 2023 you will have access to the COM625 SOL: [COM625_7022510974](https://learn.solent.ac.uk/course/view.php?id=48508)
 
 We also encourage you to work on curating/updating your portfolio and off-the-job-tracker which is needed for your Endpoint Assessment EPA.
 
@@ -37,7 +37,22 @@ See full details in the published government standard.
 
 [BDATS Standard](https://www.instituteforapprenticeships.org/apprenticeship-standards/digital-and-technology-solutions-professional-integrated-degree/)
 
-### Portfolio: Mapping KSBs
+
+## Project Outline
+
+To get your project going you need to write up a summary of what you intend to do and offer background and context. You will also need to highlight that you have discussed and agreed with your employer about the feasibility of undertaking this project including any potential issues (presented below) you are able to do the practical side of your project in your on-the-job hours you will be able to complete the project within the timeframe.
+
+It should be no more than two sides of A4.
+
+### Considerations for the selection of an appropriate project
+
+The subject and technical focus of the project is defined by your selection of topic area in conjunction with your employer and is a work-based project that broadly represents the skills, knowledge, and behaviours of the apprenticeship standard. However, this must be demonstrably drawn from, and extend the theory and practice encompassed by your career pathway and profession.  All projects must produce specific artefacts that demonstrate intellectual, practical skills and appropriate behaviours in the subject domain.
+
+For the topic chosen, any issues with confidentiality and/or security will also be addressed between the university, employer, and you the apprentice, allowing for projects of business value to be undertaken using real data. The assessment of the synoptic project should include your employer’s assessment against the common criteria for the project.
+
+In addition, you will acquire knowledge and skills associated with the gathering and interpretation of literature, the development of an appropriate project methodology, project planning, written and verbal reporting of project outcomes, and the use of references. The project must take into consideration relevant ethical, legal, and other professional issues in its conception. Particularly it must address any issues associated with intellectual property.
+
+## Portfolio: Mapping KSBs
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=5aec8018-58b8-49c7-868c-aeb700ccb796&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
@@ -49,8 +64,10 @@ Curating your EPA portfolio
 
 Task deadlines:
 
-Friday 24 June 2022
-Friday 29 July 2022
-Friday 9 September 2022
+1. Friday 24 June 2022
+1. Friday 29 July 2022
+1. Friday 9 September 2022
 
 [Upload on SOL](https://learn.solent.ac.uk/course/view.php?id=42080&section=22)
+
+
