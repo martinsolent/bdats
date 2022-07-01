@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ?? COM???
+title: Network Security COM512
 parent: L5 Modules
 nav_order: 3
 ---
@@ -8,7 +8,7 @@ nav_order: 3
 {: .no_toc }
 
 
-# Test
+# Network Security COM512
 
 
 

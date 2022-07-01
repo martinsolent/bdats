@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ?? COM???
+title: Analytics & Business Intelligence COM517
 parent: L5 Modules
 nav_order: 6
 ---
@@ -8,7 +8,7 @@ nav_order: 6
 {: .no_toc }
 
 
-# Test
+#  Analytics & Business Intelligence COM517
 
 
 

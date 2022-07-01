@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ?? COM???
+title: Advanced Database Systems COM519
 parent: L5 Modules
 nav_order: 7
 ---
@@ -8,7 +8,7 @@ nav_order: 7
 {: .no_toc }
 
 
-# Test
+# Advanced Database Systems COM519
 
 
 

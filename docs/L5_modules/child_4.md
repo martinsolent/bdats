@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ?? COM???
+title: Enterprise Networks COM515
 parent: L5 Modules
 nav_order: 5
 ---
@@ -8,7 +8,7 @@ nav_order: 5
 {: .no_toc }
 
 
-# Test
+# Enterprise Networks COM515
 
 
 
