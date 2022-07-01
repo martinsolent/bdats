@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Cyber Ops COM613
+title: DevOps COM619
 parent: L6 Modules
-nav_order: 3
+nav_order: 7
 ---
 
 {: .no_toc }
 
 
-# Cyber Ops COM613
+# DevOps COM619
 
 
 

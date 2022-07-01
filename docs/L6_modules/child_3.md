@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ?? COM???
+title: Cloud Computing COM614
 parent: L6 Modules
 nav_order: 4
 ---
@@ -8,7 +8,7 @@ nav_order: 4
 {: .no_toc }
 
 
-# Test
+# Cloud Computing COM614
 
 
 
