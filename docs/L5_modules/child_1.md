@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PNetwork Systems Automation COM511
+title: Network Systems Automation COM511
 parent: L5 Modules
 nav_order: 2
 ---
