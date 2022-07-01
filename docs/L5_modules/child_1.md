@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Problem Solving COM411
-parent: L6 Modules
+parent: L5 Modules
 nav_order: 2
 ---
 

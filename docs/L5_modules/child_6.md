@@ -1,9 +1,8 @@
 ---
 layout: default
 title: ?? COM???
-parent: L6 Modules
-grand_parent: Modules
-nav_order: 2
+parent: L5 Modules
+nav_order: 7
 ---
 
 {: .no_toc }
