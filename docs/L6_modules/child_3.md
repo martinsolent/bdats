@@ -1,8 +1,7 @@
 ---
 layout: default
 title: ?? COM???
-parent: L4 Modules
-grand_parent: Modules
+parent: L6 Modules
 nav_order: 2
 ---
 
