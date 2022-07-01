@@ -7,6 +7,6 @@ has_children: true
 
 {: .no_toc }
 
-# L6 Modules
+# L5 Modules
 
 BDATS apprenticeship module information
