@@ -1,7 +1,7 @@
 ---
 layout: default
 title: L6 Modules
-nav_order: 99
+nav_order: 110
 has_children: true
 ---
 
