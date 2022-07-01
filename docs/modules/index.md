@@ -9,4 +9,4 @@ has_children: true
 
 #  BDATS Modules
 
-The BDATS apprenticeship offers four pathways depending on your job role
+BDATS apprenticeship module information
