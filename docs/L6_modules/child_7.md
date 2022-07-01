@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Data Science COM619
+title: DevOps COM619
 parent: L6 Modules
-nav_order: 7
+nav_order: 8
 ---
 
 {: .no_toc }
 
 
-# Data Science COM618
+# DevOps COM619
 
 
 
