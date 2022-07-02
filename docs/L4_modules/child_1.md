@@ -41,5 +41,7 @@ Length/duration:	4 hours
 Software Product with Report
 Length/duration:	2000 words
 
+[Tech Stack & Delivery](https://martinsolent.github.io/bdats/docs/L4_modules/child_1.html){: .btn .btn-purple }
+
 
 
