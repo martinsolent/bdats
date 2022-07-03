@@ -32,14 +32,12 @@ You will be introduced to the problem-solving process and its importance in the 
 
 **AE1	Weighting: 50%**
 
-Time Constrained Assessment
-Length/duration:	4 hours
+Time Constrained Assessment (TCA) 4 hours
 
 
 **AE2	Weighting: 50%**
 
-Software Product with Report
-Length/duration:	2000 words
+Software Product with Report 2000 words
 
 [Tech Stack & Delivery](https://martinsolent.github.io/bdats/docs/tech_stacks/child_5.html){: .btn .btn-purple }
 
