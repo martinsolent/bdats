@@ -20,4 +20,4 @@ Please download and use the Back on Track form
 
 [Internal link to BDATs Course SOL](https://learn.solent.ac.uk/course/view.php?id=42080&section=11)
 
-Internal Link to internal HNC Data 
+[Internal Link to internal HNC Data](https://learn.solent.ac.uk/course/view.php?id=42256&section=12#tabs-tree-start)
