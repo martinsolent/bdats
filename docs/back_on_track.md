@@ -10,7 +10,7 @@ nav_order: 150
 
 ![tracks](images/jordan-steranka-x26Rojv0GoA-unsplash.jpg)
 
-Sometimes you're learning will not go to plan; you may have failed or not submitted an assessment element, or you intend taking a break in learning (BiL) which means your apprenticeship term will need to be revised and extended. 
+Sometimes you're learning will not go to plan; you may have failed or not submitted an assessment element, or you intend to take a break in learning (BiL) which means your apprenticeship term will need to be revised and extended. 
 
 **The expectation is that Apprentices should flag their employer/manager if they are not on track for example if they have failed or not submitted an assessment element.** If this is the case over several modules which could mean repeating either learning and assessments and/or extending the term of the apprenticeship, a meeting will need to be set up with a Solent apprenticeship tutor, apprentice and the manager to work out a “back on track plan”
 
