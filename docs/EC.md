@@ -8,9 +8,7 @@ nav_order: 152
 
 # Extenuating Circumstances
 
-![tracks](images/jordan-steranka-x26Rojv0GoA-unsplash.jpg)
-
-Extenuating Circumstances (EC) and personal matters that may impact your learning
+**Extenuating Circumstances (EC) and personal matters that may impact your learning**
 
 The University recognises that from time to time you may experience personal circumstances which will make it difficult for you to attend class or submit your assessments on time.
 
@@ -20,4 +18,5 @@ It is vitally important you let us know you have problems as soon as possible so
 
 The following are the main ways in which the University can offer help to students who are experiencing personal problems that affect their ability to study.
 
-https://students.solent.ac.uk/studying/attendance-monitoring/extenuating-circumstances
+[Solent EC Page](https://students.solent.ac.uk/studying/attendance-monitoring/extenuating-circumstances){: .btn .btn-purple } 
+
