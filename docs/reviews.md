@@ -28,6 +28,8 @@ We have updated the form to include “wet signature” the method we are using 
 
 ## Review meeting workflow
 
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=745622f5-c9d1-4561-8d1e-aecc0117c691&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
 Apprenticeship reviews with the apprentice and their manager take place every semester, they will take place online lasting between 20 and 30 minutes there is a form to be filled with contributions from the apprentice, the manager, and the university reviewer. Following the meeting, if there are any issues they will need to be resolved.
 
 Initially, the Solent Reviewer to get the apprentice to arrange a convenient time for them and their manager to undertake the review. This will avoid any issues if the manager has changed and the reviewer is unaware of this. For future meetings, the next date will be agreed at the end of each review
