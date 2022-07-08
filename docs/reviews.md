@@ -18,8 +18,13 @@ Review meetings are undertaken by Kenton Wheeler and Martin Reid
 
 ![](images/kenton_martin.png)
 
+[Download Review Form Template UPDATED JUNE 2022](https://github.com/martinsolent/solent_store/raw/main/docs/APPRENTICESHIP%20REVIEW%20FORM%202022.docx)
 
-Apprentices & their Managers need to complete the Review Template & apprentice should upload it to BDATS SOL beforehand and we will then go through it in the meeting.
+
+It's essential that an apprentice and the manager complete the sections and the apprentice has uploaded the review template on SOL prior to the meeting taking place or at the very latest within the meeting itself. We will then go through the sections within the meeting.
+
+We have updated the form to include “wet signature” the method we are using is a little bit crude; it's just uploading an image of your signature details of how to do this can be found [here](https://github.com/martinsolent/solent_store/raw/main/docs/How%20to%20create%20a%20signature%20and%20insert%20into%20MS%20Word.docx) It might be an idea you pre-populate the template with your signatures for future use
+
 
 ## Review meeting workflow
 
@@ -29,16 +34,27 @@ Initially, the Solent Reviewer to get the apprentice to arrange a convenient tim
 
 [Review Progress List](https://ssu.sharepoint.com/:x:/r/sites/DigitalApprenticeships/Shared%20Documents/General/Student%20lists/overdue_reviews.xlsx?d=w5dfc1b1c9f164f52a50d5bd77151a36f&csf=1&web=1&e=hs4HeF) This link Internal access only
 
-The reviewer should highlight:
+Initially, the Solent Reviewer to get the apprentice to arrange a convenient time for them and their manager to undertake the review. This will avoid any issues if the manager has changed and the reviewer is unaware of this. For future meetings, the next date will be agreed upon at the end of each review
 
-* Keeping up-to-date with the 20%-off-the-job tracker on SOL
+
+**The minimum requirement of the progress review:**
+
+* Check progress against any actions agreed at the previous review, including any training that has been delivered since the last review
+* Check overall progress of the apprentice against their agreed training plan, documenting any slippage against the volume of planned off-the-job training
+* Allow for any off-the-job training evidence, that is outside of the provider’s control, to be discussed, agreed, collected, or documented
+* Discuss any concerns that the provider, employer, or the apprentice has
+* Discuss any new information / potential changes of circumstance that might impact on the training plan.
+* Provide for an opportunity to update the training plan (e.g. where it is necessary to replan any off-the-job training)
+
+**The reviewer should highlight:**
+
+* Keeping up-to-date with the off-the-job tracker on SOL
 * Keeping up-to-date with portfolio
-* 2nd-year apprentices should start thinking about a Synoptic Project topic that is undertaken in the 3rd year.
+* 2nd-year BDATS apprentices should start thinking about a Synoptic Project topic that is undertaken in the 3rd year.
 
 
 ![review_workflow](https://github.com/martinsolent/solent_store/raw/main/images/review_workflow-100_v4.png)
 
 
-[Download review from](https://github.com/martinsolent/solent_store/raw/main/docs/APPRENTICESHIP%20REVIEW%20FORM.docx){: .btn .btn-purple } 
 
 
