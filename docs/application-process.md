@@ -34,9 +34,8 @@ You will also need to complete, and upload a self-assessment to make sure we wil
 
 [**EDUCATION & SKILLS FUNDING AGENCY., 2021.** Apprenticeships: initial assessment to recognise prior learning](https://www.gov.uk/government/publications/apprenticeships-recognition-of-prior-learning/apprenticeships-initial-assessment-to-recognise-prior-learning)
 
-[Solent Uni RPL Process](https://martinsolent.github.io/data_level_4/docs/RPL.html){: .btn .btn-purple }
+[Solent Uni RPL Process](https://martinsolent.github.io/bdats/docs/RPL.html){: .btn .btn-purple }
 
-[Find out more about Solent's RPL process](https://martinsolent.github.io/bdats/docs/RPL.html)
 
 
 ## Interview
