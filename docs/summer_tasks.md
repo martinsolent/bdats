@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Summer Tasks
-nav_order: 66
+nav_order: 21
 ---
 
 {: .no_toc }
