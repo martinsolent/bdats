@@ -48,7 +48,7 @@ A cyber security analyst is responsible for the implementation, maintenance and 
 | **Spring - Jan - May (12 Weeks of Teaching)** |
 | COM415 Cyber Security Essentials |
 | COM417 - Introduction to Databases| 
-|**Summer - May - Sept 8 Weeks of Teaching)**|
+|**Summer - May - Sept (8 Weeks of Teaching)**|
 |COM423 - Systems Analysis & Design Work Based Project|
 |COM414 Routing & Switching|
 
@@ -61,7 +61,7 @@ A cyber security analyst is responsible for the implementation, maintenance and 
 |**Spring - Jan - May (12 Weeks of Teaching)**|
 |COM512 Network Security | 
 |COM522 Threat Intelligence Analysis|
-|**Summer - May - Sept 8 Weeks of Teaching)**|
+|**Summer - May - Sept (8 Weeks of Teaching)**|
 |COM532 - Work Based IT Project Management|
 |COM530 - Work Based Business Organisation |
 

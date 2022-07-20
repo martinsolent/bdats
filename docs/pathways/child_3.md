@@ -68,13 +68,14 @@ The primary role of a network engineer is to design, install, maintain and suppo
 |COM530 - Work Based Business Organisation |
 	
 	
-### Level 6 - 3rd Year - September Start	
+### Level 6 - 3rd Year - September Start
+
 |**Winter - Sept - Jan (12 Weeks of Teaching)**|
 |:--------------------------------------------|
-|COM611 - Computer Systems & Architecture|
+|COM611 - Computer Systems & Architecture |
 |COM615 Network Management |
 |**Spring - Jan - May (12 Weeks of Teaching)**|
-|COM614 Cloud Computing| 
+|COM614 Cloud Computing | 
 |COM617 - Industrial Consulting Project|
 |**Summer - May - Sept (8 Weeks of Teaching)**|
-|COM625 - Synoptic Work Based IT Project |
+|COM625 - Synoptic Work Based IT Project|
