@@ -37,3 +37,42 @@ A cyber security analyst is responsible for the implementation, maintenance and 
 
 
 ![](../info/DATS_CYBER.png)
+
+
+### Level 4 - 1st Year - September Start 
+
+| **Winter - Sept - Jan**                      |
+|:--------------------------------------------|
+| COM411 - Problem Solving through Programming |
+| COM412 - Introduction to Networks & Security | 
+| **Spring - Jan - May**                              |
+| COM415 Cyber Security Essentials |
+| COM417 - Introduction to Databases                  | 
+|**Summer - May - Sept**|
+|COM423 - Systems Analysis & Design Work Based Project|
+|COM414 Routing & Switching|
+
+### Level 5 - 2nd Year - September Start
+
+|**Winter - Sept - Jan**|
+|:--------------------------------------------|
+|COM521 Ethical Hacking & Pen Testing |
+|COM511 Network Systems Automation |
+|**Spring - Jan - May**|
+|COM512 Network Security | 
+|COM522 Threat Intelligence Analysis|
+|**Summer - May - Sept**|
+|COM532 - Work Based IT Project Management|
+|COM530 - Work Based Business Organisation |
+	
+	
+### Level 6 - 3rd Year - September Start	
+|**Winter - Sept - Jan**|
+|:--------------------------------------------|
+|COM613 CyberOps|
+|COM615 Network Management |
+|**Spring - Jan - May**|
+|COM614 Cloud Computing| 
+|COM617 - Industrial Consulting Project|
+|**Summer - May - Sept**|
+|COM625 - Synoptic Work Based IT Project |
