@@ -66,8 +66,7 @@ The primary role of a network engineer is to design, install, maintain and suppo
 |**Summer - May - Sept (8 Weeks of Teaching)**|
 |COM532 - Work Based IT Project Management|
 |COM530 - Work Based Business Organisation |
-	
-	
+
 ### Level 6 - 3rd Year - September Start
 
 |**Winter - Sept - Jan (12 Weeks of Teaching)**|
