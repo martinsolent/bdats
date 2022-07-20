@@ -65,7 +65,6 @@ The primary role of a data analyst is to collect, organise and study data to pro
 |COM532 - Work Based IT Project Management|
 |COM530 - Work Based Business Organisation |
 	
-	
 ### Level 6 - 3rd Year - September Start	
 |**Winter - Sept - Jan**|
 |:--------------------------------------------|

@@ -64,8 +64,7 @@ A Software Engineer needs to be able to design, develop, build and test high-qua
 |**Summer - May - Sept**|
 |COM532 - Work Based IT Project Management|
 |COM530 - Work Based Business Organisation |
-	
-	
+
 ### Level 6 - 3rd Year - September Start	
 |**Winter - Sept - Jan**|
 |:--------------------------------------------|
