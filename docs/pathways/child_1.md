@@ -67,12 +67,12 @@ A cyber security analyst is responsible for the implementation, maintenance and 
 	
 	
 ### Level 6 - 3rd Year - September Start	
-**Winter - Sept - Jan**
+|**Winter - Sept - Jan**|
 |:--------------------------------------------|
-COM613 CyberOps
-COM615 Network Management
-**Spring - Jan - May**
-COM614 Cloud Computing 
-COM617 - Industrial Consulting Project
-**Summer - May - Sept**|
-COM625 - Synoptic Work Based IT Project 
+|COM613 CyberOps|
+|COM615 Network Management|
+|**Spring - Jan - May**|
+|COM614 Cloud Computing| 
+|COM617 - Industrial Consulting Project|
+|**Summer - May - Sept**|
+|COM625 - Synoptic Work Based IT Project| 
