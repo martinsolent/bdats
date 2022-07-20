@@ -37,5 +37,3 @@ A cyber security analyst is responsible for the implementation, maintenance and 
 
 
 ![](../info/DATS_CYBER.png)
-
-Module Details

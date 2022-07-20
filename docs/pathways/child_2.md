@@ -36,5 +36,3 @@ The primary role of a data analyst is to collect, organise and study data to pro
 * The organisation's data architecture.
 
 ![](../info/DATS_DATA_AN.png)
-
-Module Details

@@ -36,5 +36,3 @@ A Software Engineer needs to be able to design, develop, build and test high-qua
 * How to use and apply the range of software tools used in Software engineering.
 
 ![](../info/DATS_SOFT_ENG.png)
-
-Module Details
