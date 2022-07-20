@@ -65,13 +65,13 @@ A Software Engineer needs to be able to design, develop, build and test high-qua
 |COM532 - Work Based IT Project Management|
 |COM530 - Work Based Business Organisation |
 
-### Level 6 - 3rd Year - September Start	
+### Level 6 - 3rd Year - September Start
 |**Winter - Sept - Jan (12 Weeks of Teaching)**|
-|:--------------------------------------------|
+|:---------|
 |COM624 - Machine Learning|
-|COM619 - DevOps |	
+|COM619 - DevOps|
 |**Spring - Jan - May (12 Weeks of Teaching)**|
-|COM618 - Data Science| 
+|COM618 - Data Science|
 |COM617 - Industrial Consulting Project|
 |**Summer - May - Sept (8 Weeks of Teaching)**|
-|COM625 - Synoptic Work Based IT Project |
+|COM625 - Synoptic Work Based IT Project|
