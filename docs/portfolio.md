@@ -19,6 +19,10 @@ You have already been assessed on all the work you submitted on the course, but 
 
 You will be offered support and guidance in the final Synoptic Project Module COM625 and in following the Gateway EPA period, but to support the mapping process learning outcomes for both the core and specialism skills for each of the pathways.
 
+### Portfolio: Mapping KSBs
+
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=5aec8018-58b8-49c7-868c-aeb700ccb796&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
 ### EPA PACK
 Please download the Portfolio Specialist Skills Matrix, Learning Outcomes  & EPA Support Documents for your pathway to map the learning the apprenticeship learning outcomes to your Portfolio items:
 
