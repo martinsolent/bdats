@@ -72,7 +72,7 @@ The primary role of a data analyst is to collect, organise and study data to pro
 |COM624 - Machine Learning|
 |COM621 UX Strategies |	
 |**Spring - Jan - May (12 Weeks of Teaching)**|
-|COM618 - Data Science| 
+|COM618 - Data Science|
 |COM617 - Industrial Consulting Project|
 |**Summer - May - Sept (8 Weeks of Teaching)**|
 |COM625 - Synoptic Work Based IT Project |
