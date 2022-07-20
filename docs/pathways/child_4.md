@@ -66,6 +66,7 @@ A Software Engineer needs to be able to design, develop, build and test high-qua
 |COM530 - Work Based Business Organisation |
 
 ### Level 6 - 3rd Year - September Start
+
 |**Winter - Sept - Jan (12 Weeks of Teaching)**|
 |:---------|
 |COM624 - Machine Learning|
