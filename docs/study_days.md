@@ -22,19 +22,19 @@ As a default we aim to have first years on Tuesdays, second years on Wednesdays 
 
 **1st Year (Level 4)**
 
-* Semester 1 (Sept-Jan) - TBC
+* Semester 1 (Sept-Jan) - Tuesdays
 * Semester 2 (Jan-May) - TBC
 * Semester 3 (May-Sept) - TBC
 
 **2nd Year (Level 5)**
 
-* Semester 1 (Sept-Jan) - TBC
+* Semester 1 (Sept-Jan) - Wednesdays
 * Semester 2 (Jan-May) - TBC
 * Semester 3 (May-Sept) - TBC
 
 **3rd Year (Level 6)**
 
-* Semester 1 (Sept-Jan) - TBC
+* Semester 1 (Sept-Jan) - Cyber & Network Eng: TBC & other pathways: Thursdays
 * Semester 2 (Jan-May) - TBC
 * Semester 3 (May-Sept) - TBC
 
