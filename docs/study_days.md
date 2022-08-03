@@ -22,13 +22,13 @@ As a default we aim to have first years on Tuesdays, second years on Wednesdays 
 
 **1st Year (Level 4)**
 
-* Semester 1 (Sept-Jan) - Tuesdays
+* Semester 1 (Sept-Jan) -  - **Tuesdays starting 25/9/22**
 * Semester 2 (Jan-May) - TBC
 * Semester 3 (May-Sept) - TBC
 
 **2nd Year (Level 5)**
 
-* Semester 1 (Sept-Jan) - Wednesdays
+* Semester 1 (Sept-Jan) - **Wednesdays starting 26/9/22**
 * Semester 2 (Jan-May) - TBC
 * Semester 3 (May-Sept) - TBC
 
