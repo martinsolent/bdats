@@ -10,6 +10,10 @@ nav_order: 6
 
 # Introduction to Databases COM417
 
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=7632308c-6377-458a-b7c6-af0701559cbb&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+[Direct Link to Video](https://solent.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7632308c-6377-458a-b7c6-af0701559cbb)
+
 ### Why is this module important?
 
 Databases are a major component of ICT systems. Mobile apps, social networks, video games and most software systems deploy databases or deal with data somehow. In this module you are introduced to the skills and concepts required to develop and use relational databases. You will learn how to write programs interacting with databases and how to create them. This provides a solid foundation to prepare for modules involving web, internet or software development elsewhere on your course.
@@ -63,6 +67,8 @@ Databases are a major component of ICT systems. Mobile apps, social networks, vi
 Portfolio including software artefacts 2000 words
 
 [Tech Stack & Delivery](){: .btn .btn-purple }
+
+[Module Descriptor](../info/Level 4 Modules/COM417 Introduction to Databases.docx){: .btn .btn-purple }
 
 
 
