@@ -8,11 +8,14 @@ nav_order: 4
 {: .no_toc }
 
 
+
 # Routing & Switching COM414
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=fe56b2fa-f8d4-46b7-8750-af070083fecc&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 [Video Direct Link](https://solent.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=34700101-23c1-4890-a0f7-af07008419a5)
+
+Follows CCNA – Switching Routing Wireless Essentials: https://www.netacad.com/courses/networking/ccna-switching-routing-wireless-essentials
 
 ### Why is this module important?
 

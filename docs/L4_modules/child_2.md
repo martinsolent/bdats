@@ -14,6 +14,10 @@ nav_order: 3
 
 [Video Direct Link](https://solent.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3dec526d-c850-41f4-8baf-af07007a4fbd)
 
+Cisco Networking Academy CCNAv7 curriculum, Introduction to Networks (ITN). This is the first of three courses that are aligned to the CCNA Certification Exam. ITN contains 17 modules, each with a series of topics.
+[https://www.netacad.com/courses/networking/ccna-introduction-networks ](https://www.netacad.com/courses/networking/ccna-introduction-networks)
+
+
 ### Why is this module important?
 
 If you think digital networks are important now, soon there will be over 50 billion connections between people, places and things. Get a VIP pass to your future.
