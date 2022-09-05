@@ -10,6 +10,10 @@ nav_order: 4
 
 # Routing & Switching COM414
 
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=34700101-23c1-4890-a0f7-af07008419a5&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+[Video Direct Link](https://solent.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=34700101-23c1-4890-a0f7-af07008419a5)
+
 ### Why is this module important?
 
 As enterprises migrate toward controller-based architectures, the role and skills required of a core network engineer are evolving and more vital than ever. To prepare for this network transition the module will not only prepare you with the knowledge of foundational technologies, but ensure you stay relevant with skill sets needed for the adoption of next generation technologies.
@@ -40,5 +44,5 @@ Multi-choice answer (MCA) 90 mins
 
 Time constrained assignment (TCA) 110 mins
 
-[Tech Stack & Delivery](){: .btn .btn-purple }
+[Module Descriptor](../info/Level 4 Modules/COM414 Routing and Switching.docx){: .btn .btn-purple }
 
