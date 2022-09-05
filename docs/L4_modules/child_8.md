@@ -11,6 +11,11 @@ nav_order: 9
 # Software Testing and Reliability Engineering COM422
 
 
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=34700101-23c1-4890-a0f7-af07008419a5&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+
+[Video Direct Link](https://solent.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=34700101-23c1-4890-a0f7-af07008419a5)
+
 ### Why is this module important?
 
 Software testing is a vital part of the software lifecycle. If software does not work as expected then this can lead to problems resulting in a loss of time, money and reputation.
@@ -45,4 +50,7 @@ You will also have access to resources and support material which will be publis
 **AE1 Weighting: 100%**
 
 Report (2000 Words)
+
+[Module Descriptor](../info/Level 4 Modules/CCOM422 Software Testing and Reliability Engineering.docx){: .btn .btn-purple }
+
 
