@@ -38,3 +38,7 @@ You will develop your problem-solving skills as you create your own algorithms o
 5.	Communicate findings using a variety of media.
 
 ### Summative assessment details
+
+[Module Descriptor](../info/Level 4 Modules/COM421 Data Structures, Algorithms  Mathematics.docx){: .btn .btn-purple }
+
+[COM421 Delivery](https://nwcourses.github.io/COM421/){: .btn .btn-purple }
