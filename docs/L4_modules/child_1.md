@@ -10,6 +10,11 @@ nav_order: 2
 
 # Problem Solving Through Programming COM411
 
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=22bf2cdc-fa5f-447d-ac83-af070076c066&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+[Video Direct Link](https://solent.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=22bf2cdc-fa5f-447d-ac83-af070076c066)
+
+
 
 ### Why is this module important?
 
@@ -39,7 +44,10 @@ Time Constrained Assessment (TCA) 4 hours
 
 Software Product with Report 2000 words
 
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=afc330a7-8dbf-49d9-99ae-af07007b8185&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
 [Tech Stack & Delivery](https://martinsolent.github.io/bdats/docs/tech_stacks/child_5.html){: .btn .btn-purple }
 
+[Module Descriptor](info/Level 4 Modules/COM411 Problem Solving Through Programming.docx){: .btn .btn-purple }
 
 
