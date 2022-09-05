@@ -48,6 +48,6 @@ Software Product with Report 2000 words
 
 [Tech Stack & Delivery](https://martinsolent.github.io/bdats/docs/tech_stacks/child_5.html){: .btn .btn-purple }
 
-[Module Descriptor](info/Level 4 Modules/COM411 Problem Solving Through Programming.docx){: .btn .btn-purple }
+[Module Descriptor](../info/Level 4 Modules/COM411 Problem Solving Through Programming.docx){: .btn .btn-purple }
 
 
