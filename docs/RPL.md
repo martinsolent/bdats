@@ -37,9 +37,8 @@ Once an apprentice has completed the form and created appendices of evidence thi
 
 Overview and details of the learning outcomes and delivery for level four modules can be found [here](https://martinsolent.github.io/bdats/docs/L4_modules/) make sure they all the modules that are included within your [chosen pathway](https://martinsolent.github.io/bdats/docs/pathways/) or [L4 Data Analysis delivery](https://martinsolent.github.io/data_level_4/docs/delivery/)
 
-Download the form below which is pre-populated with the common modules applicants use to apply for RPL - please delete the module information that is not applicable and then add your evidence
+Download the form below which is pre-populated with the common modules applicants use to apply for RPL - please delete the module information that is not applicable and then add your evidence.
 
 [RPL Evidence Module Template](../info/Level 4 Modules/COM411 Problem Solving Through Programming.docx){: .btn .btn-purple }
 
-
-https://github.com/martinsolent/solent_store/raw/main/docs/Template%20RPL%20Unit%20Learning%20Outcome%20Grid.docx
+[RPL Template Download](https://github.com/martinsolent/solent_store/raw/main/docs/Template%20RPL%20Unit%20Learning%20Outcome%20Grid.docx){: .btn .btn-purple }
