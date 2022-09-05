@@ -51,6 +51,6 @@ You will also have access to resources and support material which will be publis
 
 Report (2000 Words)
 
-[Module Descriptor](../info/Level 4 Modules/CCOM422 Software Testing and Reliability Engineering.docx){: .btn .btn-purple }
+[Module Descriptor](../info/Level 4 Modules/COM422 Software Testing and Reliability Engineering.docx){: .btn .btn-purple }
 
 
