@@ -10,7 +10,9 @@ nav_order: 3
 
 # Introduction to Networks & Security COM412
 
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=3dec526d-c850-41f4-8baf-af07007a4fbd&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
+[Video Direct Link](https://solent.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3dec526d-c850-41f4-8baf-af07007a4fbd)
 
 ### Why is this module important?
 
@@ -58,6 +60,8 @@ Multi-choice answer (MCA) 90 mins
 
 Time constrained assignment (TCA) 120 mins
 
-[Tech Stack & Delivery](){: .btn .btn-purple }
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=fe56b2fa-f8d4-46b7-8750-af070083fecc&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+[Module Descriptor](../info/Level 4 Modules/COM412 Introduction to Networks and Security.docx){: .btn .btn-purple }
 
 
