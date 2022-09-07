@@ -13,7 +13,7 @@ Apprenticeship induction takes place on campus two weeks before the start of ter
 **Tuesday 13th September 2022 - 9:00 - 13:00 - Room: Spark Building TS412**
 
 1. Arrival in TS412 - 9:00-9.20
-1. Introduction - 9:00-9:30
+1. Introduction - 9:20-9:30
 1. Course Presentation - 9:30-10:30
 1. Q&A - 10:30-10:50
 1. Registration in Spark - 11:00-11:30
