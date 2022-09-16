@@ -28,7 +28,7 @@ As a default we aim to have first years on Tuesdays, second years on Wednesdays 
 
 * COM412 - Introduction to Networks and Security Tutor: michael.smith@solent.ac.uk 15:00-17:00 Room JM406
 * 
-*The will be time mid-day for lunch and self-study/assessment work*
+*There will be time mid-day for lunch and self-study/assessment work*
 
 •	Semester 2 (Jan-May) - TBC
 •	Semester 3 (May-Sept) - TBC (Blended online learning)
