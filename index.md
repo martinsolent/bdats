@@ -23,7 +23,6 @@ Throughout the apprenticeship, you'll gain core technical knowledge that encompa
 ### The apprenticeship offers four pathways from 2022, depending on your job role:
 
 * Cybersecurity Specialist
-* Data Analyst
 * Network Engineer 
 * Software Engineer
 
