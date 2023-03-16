@@ -20,14 +20,16 @@ What will be my university study day 2022-23?
 
 As a default we aim to have first years on Tuesdays, second years on Wednesdays and Thursdays for third years, but due demand on resources this is not always possible, but we will confirm study days in advance of you starting the course or progressing to the next level/year.
 
-##  1st Year (Level 4)
+<!--
+
+1st Year (Level 4)
 
 * COM412 - Introduction to Networks and Security Watch Video Lecture 9:00-10:00 (NO ROOM)
 
 * COM411 - Problem-Solving through Programming Tutor: darren.cunningham@solent.ac.uk 10:00-12:00 Room JM312
 
 * COM412 - Introduction to Networks and Security Tutor: michael.smith@solent.ac.uk 15:00-17:00 Room JM406
-* 
+*)
 *There will be time mid-day for lunch and self-study/assessment work*
 
 •	Semester 2 (Jan-May) - TBC
@@ -110,6 +112,8 @@ Lab 10:00-12:00 Room JM310
 
 
 •	Semester 2 (Jan-May) -TBC
-•	Semester 3 (May-Sept) - Thursdays  (Blended online learning)
+•	Semester 3 (May-Sept) - Thursdays  (Blended online learning
+
+-->
 
 

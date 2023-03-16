@@ -44,9 +44,9 @@ You will upload your completed portfolio together with a learning outcome mappin
 Gateway EPA take place in the EPA period following on from the completion of all credited on-programme modules at the end of 3rd year.
 
 
-1. Completed 20% Tracker - This will be a printout of the complete tracker from the BDATS SOL course SOL page and/or a self-created spreadsheet.
+1. Completed Tracker - This will be a printout of the complete tracker from the BDATS SOL course SOL page and/or a self-created spreadsheet.
 1. Completed Portfolio Mapped to the Standard learning outcome.
-1. A signed off Conflict of Interest Form - signed by the apprentice, their manager & EPA Assessor confirming that you do not know each other
+1. A signed off Conflict of Interest Form - signed by the apprentice, their manager & EPA Assessor confirming that you do not know each other (before EPA)
 1. A signed off EPA Ready Form - signed by the apprentice, their manager & Solent University
 1. Manager/Employer Feedback - this will be feedback on the project and also on the apprenticeship as a whole covering the value that the apprentice has offered to the organisation. (500 words max)
 1. All documents are available above. Once completed please ZIP them up and submit them on the Portfolio upload link.
