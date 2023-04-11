@@ -1,14 +1,16 @@
 ---
 layout: default
-title: Summer Tasks
+title: Summer Tasks 2022
 nav_order: 21
 ---
 
 {: .no_toc }
 
-# January Starts 3rd Year Summer 2022 Tasks
+# January Starts 3rd Year Summer 2022 Tasks (ARCHIVED)
 
-January starters have Summer 2022 to select an appropriate work-based project in agreement with your manager/workplace if possible carrying out some initial expiration ready to work on and compile your project in the Synoptic Project from January - May 2023 - if you due to study this module from Jan 2023 you will have access to the COM625 SOL: [COM625_7022510974](https://learn.solent.ac.uk/course/view.php?id=48508)
+**WE DO NOT HAVE JANUARY STARTS ON BDATS**
+
+January starters (ONLY) have Summer 2022 to select an appropriate work-based project in agreement with your manager/workplace if possible carrying out some initial expiration ready to work on and compile your project in the Synoptic Project from January - May 2023 - if you due to study this module from Jan 2023 you will have access to the COM625 SOL: [COM625_7022510974](https://learn.solent.ac.uk/course/view.php?id=48508)
 
 We also encourage you to work on curating/updating your portfolio and off-the-job-tracker which is needed for your Endpoint Assessment EPA.
 
