@@ -10,6 +10,8 @@ nav_order: 11
 
 Our diverse team consists of experienced practitioners in a broad range of computing disciplines.  Each member of our team has unique expertise which adds to our strength and helps us deliver a greater learning experience.  Our team is based in JM506 currently comprises the following members:
 
+### Head of Department
+
 
 #### [Sarah Radif](https://www.solent.ac.uk/staff/academic/sarah-radif) - **Head of Science & Engineering** 
 
