@@ -70,6 +70,10 @@ shakeel.ahmad@solent.ac.uk
 
 ### Teaching Staff (Computing):
 
+#### [Dr. Anthony Basiel](https://www.solent.ac.uk/staff/academic/dr-anthony-basiel) - **Lecturer Computing (UX)**
+
+anthony.basiel@solent.ac.uk
+
 #### [Dr. Kashif Talpur](https://www.solent.ac.uk/staff/academic/kashif-talpur) - **Lecturer Computing (AI & Data Science)**
 
 kashif.talpur@solent.ac.uk
