@@ -15,18 +15,20 @@ Our diverse team consists of experienced practitioners in a broad range of compu
 
 sarah.radif@solent.ac.uk
 
+------
+
 #### [Dr Marc Molinari](https://www.solent.ac.uk/staff/academic/marc-molinari) - Lead Computer Scientist
 
 marc.molinari@solent.ac.uk
 
+------
+
 ### **Associate Heads:**
 
-#### [Dr. Kalin Penev](https://pure.solent.ac.uk/en/persons/kalin-penev) **Associate Professor, Systems Engineering &
-Associate Head of Research, Innovation & Education**
-
+#### [Dr. Kalin Penev](https://pure.solent.ac.uk/en/persons/kalin-penev) **Associate Professor, Systems Engineering & Associate Head of Research, Innovation & Education**
 kalin.penev@solent.ac.uk
 
-
+------
 
 ### Course Leaders:
 
@@ -62,7 +64,7 @@ Course Leader for:
 
 shakeel.ahmad@solent.ac.uk
 
-
+------
 
 ### Teaching Staff (Computing):
 
