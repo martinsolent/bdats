@@ -171,9 +171,9 @@ The primary role of a network engineer is to design, install, maintain and suppo
 
 **Technical Knowledge**
 
-**Knows and understands:
-**
-- The fundamental building     blocks  (e.g. routers, switches, hubs, storage, transmission)     and typical architectures (e.g. server/client, hub/spoke) of computers,     networks and the Internet.
+**Knows and understands:**
+
+- The fundamental buildingblocks  (e.g. routers, switches, hubs, storage, transmission)     and typical architectures (e.g. server/client, hub/spoke) of computers,     networks and the Internet.
 - The main features of     routing and Internet network protocols in use, their purpose     and their relationship to each other, including the physical and data link     layer (e.g. https, HTTP, SMTP, SNMP, TCP, IP, etc.).
 - The main factors that     affect network performance (e.g. the relationship between bandwidth,     number of users, nature of traffic, contention).
 - Failure modes in protocols     (e.g. why a protocol may ‘hang’ and the effect of data communication     errors).
