@@ -81,9 +81,15 @@ A cyber security analyst is responsible for the implementation, maintenance and 
 ### *Modules with embedded CISCO Training
 
 COM412 - [CISCO CCNA 1](https://www.netacad.com/courses/networking/ccna-introduction-networks)
+
 COM414 - [CISCO CCNA 2](https://www.netacad.com/courses/networking/ccna-switching-routing-wireless-essentials)
-COM512 - CISCO Network Security
-COM513 - Model Driven Programming & CCNA exam
+
+COM512 - [CISCO Network Security](https://www.netacad.com/courses/cybersecurity/network-security)
+
+COM513 - [Model Driven Programming & CCNA exam](https://www.netacad.com/courses/infrastructure-automation/workshop-model-driven-programmability)
+
 COM515 - [CISCO CCNA 3](https://www.netacad.com/courses/networking/ccna-enterprise-networking-security-automation)
+
 COM612 - [CISCO Connecting Things](https://www.netacad.com/courses/iot/iot-fundamentals)
-COM613 - CISCO Cyber Operations
+
+COM613 - [CISCO Cyber Operations](https://www.netacad.com/courses/cybersecurity/cyberops-associate)
