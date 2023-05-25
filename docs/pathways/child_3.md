@@ -46,23 +46,23 @@ The primary role of a network engineer is to design, install, maintain and suppo
 | **Winter - Sept - Jan (12 Weeks of Teaching)** |
 |:--------------------------------------------|
 | COM411 - Problem Solving through Programming |
-| COM412 - Introduction to Networks & Security | 
+| COM412 - Introduction to Networks & Security* | 
 | **Spring - Jan - May(12 Weeks of Teaching)** |
 | COM415 Cyber Security Essentials |
 | COM417 - Introduction to Databases                  | 
 |**Summer - May - Sept (8 Weeks of Teaching)**|
 |COM423 - Systems Analysis & Design Work Based Project|
-|COM414 Routing & Switching|
+|COM414 Routing & Switching*|
 
 ### Level 5 - 2nd Year - September Start
 
 |**Winter - Sept - Jan (12 Weeks of Teaching)**|
 |:--------------------------------------------|
-|COM515 - Enterprise Networks |
+|COM515 - Enterprise Networks* |
 |COM511 Network Systems Automation |
 |**Spring - Jan - May (12 Weeks of Teaching)**|
-|COM512 Network Security | 
-|COM513 - Network Engineering|
+|COM512 Network Security* | 
+|COM513 - Network Engineering*|
 |**Summer - May - Sept (8 Weeks of Teaching)**|
 |COM532 - Work Based IT Project Management|
 |COM530 - Work Based Business Organisation |
@@ -78,3 +78,15 @@ The primary role of a network engineer is to design, install, maintain and suppo
 |COM617 - Industrial Consulting Project|
 |**Summer - May - Sept (8 Weeks of Teaching)**|
 |COM625 - Synoptic Work Based IT Project|
+
+### *Modules with embedded CISCO Training
+
+COM412 - [CISCO CCNA 1](https://www.netacad.com/courses/networking/ccna-introduction-networks)
+
+COM414 - [CISCO CCNA 2](https://www.netacad.com/courses/networking/ccna-switching-routing-wireless-essentials)
+
+COM512 - [CISCO Network Security](https://www.netacad.com/courses/cybersecurity/network-security)
+
+COM513 - [Model Driven Programming & CCNA exam](https://www.netacad.com/courses/infrastructure-automation/workshop-model-driven-programmability)
+
+COM515 - [CISCO CCNA 3](https://www.netacad.com/courses/networking/ccna-enterprise-networking-security-automation)
