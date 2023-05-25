@@ -44,7 +44,7 @@ A Software Engineer needs to be able to design, develop, build and test high-qua
 | **Winter - Sept - Jan (12 Weeks of Teaching)** |
 |:--------------------------------------------|
 | COM411 - Problem Solving through Programming |
-| COM412 - Introduction to Networks & Security | 
+| COM412 - Introduction to Networks & Security* | 
 | **Spring - Jan - May (12 Weeks of Teaching)**|
 | COM422 - Software Testing & Reliability Engineering |
 | COM417 - Introduction to Databases                  | 
@@ -76,3 +76,7 @@ A Software Engineer needs to be able to design, develop, build and test high-qua
 |COM617 - Industrial Consulting Project|
 |**Summer - May - Sept (8 Weeks of Teaching)**|
 |COM625 - Synoptic Work Based IT Project|
+
+### *Modules with embedded CISCO Training
+
+COM412 - [CISCO CCNA 1](https://www.netacad.com/courses/networking/ccna-introduction-networks)
