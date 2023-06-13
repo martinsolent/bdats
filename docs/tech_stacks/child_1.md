@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tech Stacks - Databases COM417
-parent: Tech & Content Delivery
+parent: British Values
 nav_order: 2
 ---
 

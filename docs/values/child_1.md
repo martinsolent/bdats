@@ -1,14 +1,13 @@
 ---
 layout: default
 title: British Values & Safeguarding
+parent: British Values
 nav_order: 2
 ---
 
 {: .no_toc }
 
 # Incorporating British values into a Digital and Technology:
-
-**Incorporating British values into a Digital and Technology:**
 
 | [**British Values (BV)**](https://www.gov.uk/government/news/guidance-on-promoting-british-values-in-schools-published) | [**Solent Values (SV)**](https://www.solent.ac.uk/strategy-2025/welcome) |
 | --- | --- |
