@@ -6,46 +6,57 @@ nav_order: 2
 
 {: .no_toc }
 
-# British Values, Prevent  & Safeguarding
+# Incorporating British values into a Digital and Technology:
 
-### British Values
+**Incorporating British values into a Digital and Technology:**
 
-British Values are embedded into our delivery and resources. The five key British values are:
+| [**British Values (BV)**](https://www.gov.uk/government/news/guidance-on-promoting-british-values-in-schools-published) | [**Solent Values (SV)**](https://www.solent.ac.uk/strategy-2025/welcome) |
+| --- | --- |
+| Democracy | Ownership, Respect, Inclusivity, Engagement |
+| The rule of law | Integrity, Respect, Engagement |
+| Individual liberty  | Respect, Ownership Inclusivity |
+| Mutual respect  | Teamwork, Respect, Engagement |
+| Tolerance | Teamwork, Respect, Integrity |
 
-* Democracy
-* The rule of law
-* Individual liberty
-* Mutual respect
-* Tolerance
+1. **Ethical Considerations:**  Emphasize the importance of ethical decision-making and responsible use of technology. Discuss the ethical implications of development, such as data privacy, cybersecurity, and algorithmic bias. Encourage apprentices to consider the social and ethical consequences of their work.
 
-**DEPARTMENT FOR EDUCATION, 2014.** Guidance on promoting British values in schools published [viewed 5 May 2022]. Available from: [https://www.gov.uk/government/news/guidance-on-promoting-british-values-in-schools-published](https://www.gov.uk/government/news/guidance-on-promoting-british-values-in-schools-published)
+**[BV: Democracy, The rule of law, Individual liberty & Mutual respect]
+ (SV: Integrity, Respect, Engagement, Ownership, Inclusivity, & Teamwork)**
 
 
-### Solent’s Values and Behaviours
+2. **Diversity and Inclusion:**  Promote diversity and inclusion within the field Digital and Technology. Encourage discussions on the benefits of diverse teams and the importance of creating inclusive software products that cater to a wide range of users. Provide opportunities for apprentices to collaborate with individuals from different backgrounds and perspectives.
 
-British values align with Solent's University Values and Behaviours
+**[BV: Tolerance, Individual liberty & Mutual respect]
+ (SV: Teamwork, Respect, Integrity, Ownership, Inclusivity & Engagement)**
 
-Respect - Ownership - Inclusivity - Engagement - Integrity - Teamwork
 
-### Solent Safeguarding Policy
+3. **Freedom of Expression and Intellectual Property:**  Teach apprentices about intellectual property rights, copyright, and open-source software. Emphasize the importance of respecting the intellectual property of others while fostering an environment that encourages innovation, creativity, and freedom of expression.
 
-The University is committed to ensuring a safe and supportive environment for students, staff, and visitors. The University recognises that in the course of its activities, there are circumstances in which children, adults with care or support needs or students at risk come onto University premises at both campuses or have contact with University students, staff, or contractors.
+**[BV: The rule of law & Individual liberty]
+ (SV: Integrity, Engagement, Respect, Ownership & Inclusivity)**
 
-[https://students.solent.ac.uk/student-hub/safeguarding](https://students.solent.ac.uk/student-hub/safeguarding)
 
-### Equality and Diversity
+4. **Collaboration and Communication:**  Foster an environment that encourages effective collaboration and communication skills. Provide opportunities for apprentices to work in teams, participate in group projects, and practice clear and respectful communication. Teach the value of teamwork and collective problem-solving.
 
-Solent University aims to foster a community with a culture of mutual trust, fairness, harmony, and respect devoid of hatred and intolerance.
+**[BV: Tolerance, Individual liberty & Mutual respect]
+(SV: Teamwork, Respect, Integrity, Ownership, Inclusivity, Teamwork & Engagement)**
 
-It is committed to the elimination of all forms of both direct and indirect discrimination and will take appropriate action wherever possible to enforce its equality in its student equality, diversity, and inclusion policy.
+5. **Critical Thinking and Ethical Decision-Making:**  Develop apprentices' critical thinking skills and their ability to make ethical decisions. Incorporate case studies and real-world scenarios that challenge them to analyse complex problems, consider multiple perspectives, and make informed choices based on ethical principles.
 
-[https://students.solent.ac.uk/student-hub/equality-and-diversity](https://students.solent.ac.uk/student-hub/equality-and-diversity)
+**[BV: Individual liberty & Mutual respect]
+ (SV: Respect, Ownership, Inclusivity, Teamwork & Engagement)**
 
-### Prevent
 
-Prevent is one of four strands that make up the government’s counter-terrorism strategy called CONTEST. The Prevent duty is a new statutory duty to have “due regard to the need to prevent individuals from being drawn into terrorism”. The Prevent duty guidance provided by the government requires universities to assess the level of risk that people may be drawn into terrorism and to have suitable policies, procedures, or arrangements in place to mitigate those risks.
+6. **Professionalism and Professional Integrity:**  Instil a sense of professionalism and integrity in software engineering practice. Teach apprentices about professional standards, codes of conduct, and the importance of maintaining high ethical standards in their work. Encourage apprentices to uphold honesty, transparency, and accountability throughout their careers.
 
-On 1 April 2018 the Office for Students (OfS) took over from the Higher Education Funding Council for England (HEFCE) in the role of regulating English higher education providers on behalf of all students, including the role of working with universities to ensure the appropriate Prevent duty policies, procedures and arrangements are in place, and following an OfS Prevent monitoring framework for this purpose.
+**[BV: The rule of law]
+ (SV: Integrity, Respect, Engagement)**
 
-[https://students.solent.ac.uk/student-hub/prevent](https://students.solent.ac.uk/student-hub/prevent)
 
+7. **Engaging with Society:**  Encourage apprentices to actively engage with society and understand the impact of technology on individuals and communities. Foster a sense of social responsibility and encourage apprentices to use their skills to contribute positively to society, such as through volunteering, mentoring, or working on projects that address social challenges.
+
+**[BV: Democracy, Individual liberty & Mutual respect]
+ (SV: Ownership, Respect, Inclusivity, Engagement & Teamwork)**
+
+
+By incorporating these elements into the apprenticeship degree program, Apprentices can develop not only technical expertise but also a strong ethical foundation and a deep understanding of the societal impact of their work. This will help shape responsible and socially conscious professionals who contribute to the advancement of technology while upholding British values.
