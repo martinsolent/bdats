@@ -1,7 +1,7 @@
 ---
 layout: default
 title: British Values & Safeguarding
-nav_order: 16
+nav_order: 2
 ---
 
 {: .no_toc }
