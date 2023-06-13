@@ -1,7 +1,7 @@
 ---
 layout: default
-title: British Values & Safeguarding
-parent: British Values
+title: British Values Mapping
+parent: values
 nav_order: 2
 ---
 
