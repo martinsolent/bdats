@@ -1,7 +1,7 @@
 ---
 layout: default
 title: British Values Mapping
-parent: values
+parent: British Values
 nav_order: 2
 ---
 
