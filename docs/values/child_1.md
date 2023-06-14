@@ -7,7 +7,7 @@ nav_order: 2
 
 {: .no_toc }
 
-# Incorporating British values into a Digital and Technology:
+# Incorporating British values into a Digital Technologies:
 
 | [**British Values (BV)**](https://www.gov.uk/government/news/guidance-on-promoting-british-values-in-schools-published) | [**Solent Values (SV)**](https://www.solent.ac.uk/strategy-2025/welcome) |
 | --- | --- |
@@ -17,19 +17,19 @@ nav_order: 2
 | Mutual respect  | Teamwork, Respect, Engagement |
 | Tolerance | Teamwork, Respect, Integrity |
 
-1. **Ethical Considerations:**  Emphasize the importance of ethical decision-making and responsible use of technology. Discuss the ethical implications of development, such as data privacy, cybersecurity, and algorithmic bias. Encourage apprentices to consider the social and ethical consequences of their work.
+1. **Ethical Considerations:**  Emphasise the importance of ethical decision-making and responsible use of technology. Discuss the ethical implications of development, such as data privacy, cybersecurity, and algorithmic bias. Encourage apprentices to consider the social and ethical consequences of their work.
 
 **[BV: Democracy, The rule of law, Individual liberty & Mutual respect]
  (SV: Integrity, Respect, Engagement, Ownership, Inclusivity, & Teamwork)**
 
 
-2. **Diversity and Inclusion:**  Promote diversity and inclusion within the field Digital and Technology. Encourage discussions on the benefits of diverse teams and the importance of creating inclusive software products that cater to a wide range of users. Provide opportunities for apprentices to collaborate with individuals from different backgrounds and perspectives.
+2. **Diversity and Inclusion:**  Promote diversity and inclusion within the field Digital and Technology. Encourage discussions on the benefits of diverse teams and the importance of creating inclusive digital systems and products that cater to a wide range of users. Provide opportunities for apprentices to collaborate with individuals from different backgrounds and perspectives.
 
 **[BV: Tolerance, Individual liberty & Mutual respect]
  (SV: Teamwork, Respect, Integrity, Ownership, Inclusivity & Engagement)**
 
 
-3. **Freedom of Expression and Intellectual Property:**  Teach apprentices about intellectual property rights, copyright, and open-source software. Emphasize the importance of respecting the intellectual property of others while fostering an environment that encourages innovation, creativity, and freedom of expression.
+3. **Freedom of Expression and Intellectual Property:**  Teach apprentices about intellectual property rights, copyright, and open-source software. Emphasise the importance of respecting the intellectual property of others while fostering an environment that encourages innovation, creativity, and freedom of expression.
 
 **[BV: The rule of law & Individual liberty]
  (SV: Integrity, Engagement, Respect, Ownership & Inclusivity)**
@@ -46,16 +46,16 @@ nav_order: 2
  (SV: Respect, Ownership, Inclusivity, Teamwork & Engagement)**
 
 
-6. **Professionalism and Professional Integrity:**  Instil a sense of professionalism and integrity in software engineering practice. Teach apprentices about professional standards, codes of conduct, and the importance of maintaining high ethical standards in their work. Encourage apprentices to uphold honesty, transparency, and accountability throughout their careers.
+6. **Professionalism and Professional Integrity:**  Instil a sense of professionalism and integrity in tech and digital practice. Teach apprentices about professional standards, codes of conduct, and the importance of maintaining high ethical standards in their work. Encourage apprentices to uphold honesty, transparency, and accountability throughout their careers.
 
 **[BV: The rule of law]
  (SV: Integrity, Respect, Engagement)**
 
 
-7. **Engaging with Society:**  Encourage apprentices to actively engage with society and understand the impact of technology on individuals and communities. Foster a sense of social responsibility and encourage apprentices to use their skills to contribute positively to society, such as through volunteering, mentoring, or working on projects that address social challenges.
+7. **Engaging with Society:**  Encourage apprentices to actively engage with society and understand the impact of technology on individuals and communities. Foster a sense of social responsibility and encourage apprentices to use their skills to contribute positively to society, such as through mentoring and working on projects that address social challenges.
 
 **[BV: Democracy, Individual liberty & Mutual respect]
  (SV: Ownership, Respect, Inclusivity, Engagement & Teamwork)**
 
 
-By incorporating these elements into the apprenticeship degree program, Apprentices can develop not only technical expertise but also a strong ethical foundation and a deep understanding of the societal impact of their work. This will help shape responsible and socially conscious professionals who contribute to the advancement of technology while upholding British values.
+By incorporating these elements into the apprenticeship programme, Apprentices can develop not only technical expertise but also a strong ethical foundation and a deep understanding of the societal impact of their work. This will help shape responsible and socially conscious professionals who contribute to the advancement of technology while upholding British values.
