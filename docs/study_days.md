@@ -12,13 +12,22 @@ nav_order: 10
 
 The Academic year is delivered over 3 semesters with BDATS 2 modules &  HNC L4 1 module per semester 
 
-[Solent University Academic calendar for 2022-23](https://students.solent.ac.uk/official-documents/policy-governance-and-information/academic-calendar-2022-23.pdf)
-
 [Solent University Academic calendar for 2023-24](https://students.solent.ac.uk/official-documents/policy-governance-and-information/academic-calendar-2023-24.pdf)
 
-What will be my university study day 2022-23?
+What will be my university study day 2023-24?
 
 As a default we aim to have first years on Tuesdays, second years on Wednesdays and Thursdays for third years, but due demand on resources this is not always possible, but we will confirm study days in advance of you starting the course or progressing to the next level/year.
+
+### Semester 1 - Sept 2023 - Jan 2024
+
+| Study Day | Year (Level)  |           Pathway           |
+| --------- | :-----------: | :-------------------------: |
+| Tuesday   |  1st Yr (L4)  |             ALL             |
+| Tuesday   |  3rd Yr (L6)  |       Network & Cyber       |
+| Wednesday | 2nd Year (L5) |             ALL             |
+| Thursday  |  3rd Yr (L6)  | Soft End, Data & IT Consult |
+
+
 
 <!--
 
