@@ -86,15 +86,19 @@ bode.amangele@solent.ac.uk
 
 darren.cunningham@solent.ac.uk
 
-#### [Dr. Femi Isiaq](https://www.solent.ac.uk/staff-profiles/dr-olufemi-isiaq) **- Senior Lecturer Computing**
+#### [Raza Hasan](https://www.solent.ac.uk/staff/academic/raza-hasan) **- Senior Lecturer Computing**
 
-femi.isiaq@solent.ac.uk
+raza.hasan@solent.ac.uk
 
 
-#### [Dr. Joe Appleton](https://www.solent.ac.uk/staff-profiles/academic-profiles/joe-appleton/joe-appleton) **- Lecturer in Software Development (Web)**
+#### [Dr Taiwo Ayodele](https://www.solent.ac.uk/staff/academic) **- Senior Lecturer Computing**
 
 joe.appleton@solent.ac.uk
 
+
+#### [Vacant Post](https://www.solent.ac.uk/staff/academic) **- Lecturer in Software Development (Web)**
+
+joe.appleton@solent.ac.uk
 #### Kenton Wheeler **- Associate Lecturer in Computing**
 
 kenton.wheeler@solent.ac.uk
@@ -118,5 +122,5 @@ warren.earle@solent.ac.uk
 
 jarutas.andritsch@solent.ac.uk
 
+[COURSE TEAM INTERNAL LINK](https://learn.solent.ac.uk/course/view.php?id=22663&section=1){: .btn .btn-purple } 
 
-[Internal link to course team on SOL](https://learn.solent.ac.uk/course/view.php?id=22663&section=1)
