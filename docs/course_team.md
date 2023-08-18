@@ -93,12 +93,13 @@ raza.hasan@solent.ac.uk
 
 #### [Dr Taiwo Ayodele](https://www.solent.ac.uk/staff/academic) **- Senior Lecturer Computing**
 
-joe.appleton@solent.ac.uk
+taiwo.ayodele@solent.ac.uk
 
 
 #### [Vacant Post](https://www.solent.ac.uk/staff/academic) **- Lecturer in Software Development (Web)**
 
-joe.appleton@solent.ac.uk
+@solent.ac.uk
+
 #### Kenton Wheeler **- Associate Lecturer in Computing**
 
 kenton.wheeler@solent.ac.uk
@@ -121,6 +122,8 @@ warren.earle@solent.ac.uk
 #### [Dr. Jarutas Andritsch](https://www.solent.ac.uk/staff-profiles/jarutas-andritsch) **- Lecturer in Computing**
 
 jarutas.andritsch@solent.ac.uk
+
+------
 
 [COURSE TEAM INTERNAL LINK](https://learn.solent.ac.uk/course/view.php?id=22663&section=1){: .btn .btn-purple } 
 
