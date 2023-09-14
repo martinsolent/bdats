@@ -29,24 +29,22 @@ As a default we aim to have first years on Tuesdays, second years on Wednesdays 
 
 
 
-
-
 ##### - 1st Year (Level 4) Teaching Starts:Tuesday 26th September 2023 
 
 **All Pathways**
 
-COM411 - Problem-Solving through Programming Tutor: darren.cunningham@solent.ac.uk 11:00 am to 1:00 pm Room JM312
+COM411 - Problem-Solving through Programming Tutor: darren.cunningham@solent.ac.uk 11:00-13:00 - Room JM312
 
-COM412 - Introduction to Networks and Security Tutor: michael.smith@solent.ac.uk 2:00 pm to 4:00 pm Room JM406
+COM412 - Introduction to Networks and Security Tutor: michael.smith@solent.ac.uk 14:00-16:00 - Room JM406
 
 
 ##### 2nd Year (Level 5) Teaching Starts:Wednesday 27th September 2023
 
 **Network Engineer:**
 
-* COM515 - Enterprise Networks with bode.amangele@solent.ac.uk 9:00 am to 12:00 am Room JM404
+* COM515 - Enterprise Networks with bode.amangele@solent.ac.uk 9:00-12:00 - Room JM404
 
-* COM511  Network Systems Automation neville.palmer@solent.ac.uk & venkat.godishala@solent.ac.uk 15:00-18:00 Room JM404
+* COM511  Network Systems Automation neville.palmer@solent.ac.uk & venkat.godishala@solent.ac.uk 15:00-18:00 - Room JM404
 
 **Cyber Security:**
 
@@ -56,7 +54,7 @@ COM412 - Introduction to Networks and Security Tutor: michael.smith@solent.ac.uk
 
 **Software Engineer:**
 
-* COM528 - Oriented Design & Dev with nick.whitelegg@solent.ac.uk  - 9:00 am to 11:00 am - HC210
+* COM528 - Oriented Design & Dev with nick.whitelegg@solent.ac.uk  - 9:00-11:00 - HC210
 
 * COM519 - Advance Database Systems with armen.petrosyan@solent.ac.uk - 2:00 pm to 4:00 pm - JM306
 
@@ -68,7 +66,7 @@ COM412 - Introduction to Networks and Security Tutor: michael.smith@solent.ac.uk
 
 **3rd Year (Level 6)**
 
-## Cyber & Network Eng Tuesday & other pathways Thursday
+## Cyber & Network Eng Tuesdays from 26th & other pathways Thursdays from 28th
 
 **Network Engineer Tuesday:**
 
@@ -84,20 +82,19 @@ COM412 - Introduction to Networks and Security Tutor: michael.smith@solent.ac.uk
 
 **Software Engineer Thursday:**
 
-* COM620 - DevOps with craig.gallen2@solent.ac.uk 9:00 am to 11:00 am -  Room JM312
+* COM619 - DevOps with craig.gallen2@solent.ac.uk 9:00 am to 11:00 am -  Room JM312
 
-* COM624 Machine Learning with femi.isiaq@solent.ac.uk - 15:00-17:00 Room JM311
-
-
-
+* COM624 Machine Learning with bacha.rehman@solent.ac.uk - TBC Room TBC
 
 
 **Data Analyst Thursday:**
 
-* COM624 Machine Learning with femi.isiaq@solent.ac.uk - 9:00-12:00 Room RM701
+* COM621  UX Strategies with anthony.basiel@solent.ac.uk - TBC Room JM412
 
-* COM621  UX Strategies with anthony.basiel@solent.ac.uk - 13:00-16:00 Room JM412
+* COM624 Machine Learning with bacha.rehman@solent.ac.uk - TBC Room TBC
 
 **IT Consultant (Thursday)** 
 
+* COM619 - DevOps with craig.gallen2@solent.ac.uk 9:00 am to 11:00 am -  Room JM312
 
+* COM621  UX Strategies with anthony.basiel@solent.ac.uk - TBC Room JM412
