@@ -5,7 +5,9 @@ nav_order: 1
 permalink: /
 ---
 
-# BSc (HONS) DIGITAL AND TECHNOLOGY SOLUTIONS at Solent University Southampton
+# BSc (HONS) DIGITAL AND TECHNOLOGY SOLUTIONS at Solent University Southampton ST0119 standard Version 1.1 (OLD)
+
+New starters (Sept 2023) on version 1.2 to to new [site here](https://martinsolent.github.io/bdats_2/)
 
 ![](./docs/images/cisco-labs-banner.jpg)
 
