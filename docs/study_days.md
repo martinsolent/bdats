@@ -33,9 +33,9 @@ As a default we aim to have first years on Tuesdays, second years on Wednesdays 
 
 **All Pathways**
 
-COM411 - Problem-Solving through Programming Tutor: darren.cunningham@solent.ac.uk 11:00-13:00 - Room JM312
+* COM411 - Problem-Solving through Programming Tutor: darren.cunningham@solent.ac.uk 11:00-13:00 - Room JM312
 
-COM412 - Introduction to Networks and Security Tutor: michael.smith@solent.ac.uk 14:00-16:00 - Room JM406
+* COM412 - Introduction to Networks and Security Tutor: michael.smith@solent.ac.uk 14:00-16:00 - Room JM406
 
 
 ##### 2nd Year (Level 5) Teaching Starts:Wednesday 27th September 2023
