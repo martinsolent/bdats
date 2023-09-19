@@ -65,7 +65,7 @@ As a default we aim to have first years on Tuesdays, second years on Wednesdays 
 
 **Network Engineer Tuesday:**
 
-* COM611 - Computer Systems with kalin.penev@solent.ac.uk - Time TBC
+* COM611 - Computer Systems with kalin.penev@solent.ac.uk - 12:00-14:00 JM413
 
 * COM615 - Network Management with neville.palmer@solent.ac.uk - 14:00-17:00 Room JM404
 
