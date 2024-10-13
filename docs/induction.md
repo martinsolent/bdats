@@ -10,9 +10,12 @@ nav_order: 5
 
 **Apprenticeship induction takes place on campus** two weeks before the start of term. Induction day is an opportunity for apprentices to meet tutors, learn more about delivery of the course and an opportunity to tour the campus.
 
-**Wednesday 13th September 2023 Times TBC**
+No more intakes on this Standard 1.1 from 2023 go to [new Standard course details 1.2](https://martinsolent.github.io/bdats_2/)
 
 <!---
+**Wednesday 13th September 2023 Times TBC**
+
+
 your comment goes here
 and here
 
