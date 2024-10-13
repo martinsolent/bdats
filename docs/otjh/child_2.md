@@ -10,7 +10,7 @@ nav_order: 3
 
 ### Off-the-job training: Myth Busters
 
-![Off-the-job-Myths-Facts](../images/Off-the-job-Myths-Facts-130919.png)
+![Off-the-job-Myths-Facts](../images/Off-the-job-Myths-Facts-130919.jpg)
 
 
 **APPRENTICESHIPS.GOV.UK., 2023.** Off-the-job training: Myth Busters [viewed 30 October 2023].
