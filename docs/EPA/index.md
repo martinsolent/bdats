@@ -9,20 +9,27 @@ has_children: true
 
 #  BDATS Verion 1.1 EPA
 
-#### Overall Assessment Strategy
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=6eb05ac4-a914-4d49-a8ce-b20d00f6eb18&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Synoptic Project &amp; EPA v:1.1" ></iframe>
+
+[Download Slides](../images/COM625_INTRO_2024_v2.pptx)
+
+### Overall Assessment Strategy
 The assessment strategy for the Degree Apprenticeship includes a balanced mix of essays, reports, practical exercises, coursework, and tests. These are mapped to each module of the BSc Digital & Technology Solutions Degree Apprenticeship to assess the development of Knowledge, Skills, and Behaviours (KSBs). The End Point Assessment (EPA) consists of a Synoptic Project and Presentation.
 
 
 The Synoptic work-based project takes place near the end of the apprenticeship. It is a substantial piece of work and covers the skills, knowledge and behaviours defined in the standard. The End Point Assessment (EPA) integrates the project outcomes and presentation into the overall Synoptic Project Assessment.
 
-Two methods of assessment:
+**Two methods of assessment:**
+
 1.	Synoptic Work based Project Practical & reporting
 2.	Presentation 1 hour (30mins plus Q&A) with the Independent Assessor
+
+![](../images/COM625/Picture6.png)
 
 **INSTITUTE FOR APPRENTICESHIPS, 2015.** DIGITAL INDUSTRIES -ASSESSMENT PLAN DIGITAL & TECHNOLOGY SOLUTIONS PROFESSIONAL BSC (Hons) Digital & Technology Solutions. instituteforapprenticeships.org. Institute for Apprenticeships [viewed 18 October 2024]. Available from: https://www.instituteforapprenticeships.org/media/1073/digital_and_technology_solutions_professional.pdf
 
 
-#### Synoptic Project
+### Synoptic Project
 The final Synoptic Project is a substantial piece of work, typically taking around 6 months to undertake alongside the apprentices' normal duties to their employer and will include doing practical work and report writing.
 
 **AE1 – Report 1 - 10% (1500 words)**
@@ -35,6 +42,7 @@ The final project report should present a narrative of the project from inceptio
 To support your Project Report, you will need to give a presentation/demonstration of your project.
 
 ## Project Selection
+![](../images/COM625/Picture7.jpg)
 
 **The Project Aim**
 The project should add value to your organisation, and it needs to hit the pathway learning outcomes (KSBs) that are in the apprenticeship standard.
@@ -56,15 +64,20 @@ Any issues with confidentiality and/or security will be addressed between the un
 A log book is is a good idea to track your daily progress, tasks, issues, and reflections. This can be digital or physical and will be help in the Write up stage
 
 **Report Writing & Referencing**
+
 Strength you academic skills 
 
 ## Doing the Project
 
 **Project Outline**
-A Project Outline needs to be completed and signed off by Southampton Solent University, the Apprentice and their employer - it's not graded, but will give us an idea of what we intend to do for your project. A template will be supplied and once completed should be no more than one side of A4.
+A Project Outline needs to be completed and signed off by Southampton Solent University, the Apprentice and their employer - it's not graded. A template will be supplied and once completed should be no more than one side of A4.
 
 
 **Final Report Structure**
+
+For the final Synoptic Report, you will be provided with a template outlining the main sections required. You can add additional sections if necessary to fit the specific needs of your project.
+
+
 1.	Title Page
 2.	Acknowledgements
 3.	Summary
@@ -86,10 +99,20 @@ The assessment of the Synoptic Project should include the employer’s evaluatio
 
 **Portfolio Mapping**
 
+apprentices will have been mapping all their learning throughout the apprenticeship to the standard KSBs, coming up to EPA it is important that this mapping is up to date using the template provided.
+
+![](../images/COM625/Picture17.png)
+
+![](../images/COM625/Picture18.png)
+
 ## Gateway
 Upon completion of the on-programme off-the-job training, a Gateway meeting will be arranged to ensure that the apprentice has completed and passed all modules and is ready to progress to the End Point Assessment (EPA). This meeting will also verify that all required documents, including the off-the-job training tracker, portfolio mapping and employer reference, have been completed.
 
-## Gateway
+
+
+## EPA Assessment Presentation
+
+![](../images/COM625/Picture19.jpg)
 
 Project Presentation to Independent EPA Assessor
 
@@ -105,5 +128,5 @@ The Honours degree award and classification is based on a weighted average mark 
 
 These typically are as follows:
 
-[](../images/L6_EPA.png)
+![](../images/COM625/Picture20.png)
 
