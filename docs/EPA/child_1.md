@@ -1,13 +1,13 @@
 ---
 layout: default
-title: End Point Assessment
+title: IfATE EPA Assessment Plan
 parent: EPA
 nav_order: 2
 ---
 
 {: .no_toc }
 
-#  BDATS - End Point Assessment (EPA)
+#  BDATS - End Point Assessment (EPA) Plan
 
 Solent University, East Park Terrace, Southampton, SO14 0YN   **[End Point Assessor Organisation (EPAO) ID: EPA0325](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1023443/Register_List_Of_Organisations_Oct_2021.xlsx)**
 
