@@ -36,9 +36,6 @@ This could be a project to design and develop a significant piece of software or
 **IT Consultant**  
 This could be a project to undertake an IT consultancy project to formulate and evaluate technical alternatives to meet businesses requirements. This will likely include issues of integration with existing technology and procedures, maintenance and expansion and the consideration of both proprietary and open source solutions as appropriate. It will include significant project planning including estimations of both time and cost to proposed solutions, include technical and commercial aspects of the proposed solution.  
   
-**Business Analyst**  
-This could be a Business Analysis study to analyse, and model a problem-specific domain and to develop a solution approach based upon the analysis. It will include significant project planning including estimations of both time and cost to proposed solutions, include technical and commercial aspects of the proposed solution.  
-  
 **Cyber Security Analyst**  
 This could be an analysis of a given domain and evaluation of security threats and vulnerabilities to planned and installed information systems or services with a robust cyber security solution. It will include significant project planning including estimations of both time and cost to proposed solutions, include technical and commercial aspects of the proposed solution.
 
