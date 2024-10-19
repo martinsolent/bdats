@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Tech Stacks - Object Oriented Design and Development COM619
+title: Tech Stacks - Object Oriented Design and Development COM534
 parent: Tech & Content Delivery
 nav_order: 11
 ---
 
 {: .no_toc }
 
-# Tech Stacks - Object Oriented Design and Development COM528
+# Tech Stacks - Object Oriented Design and Development COM534
 
 * By the end of this module you will be able to:
 * Professionally design and document your project

@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Tech Stacks - Object Oriented Design and Development COM528
+title: Tech Stacks - Object Oriented Design and Development COM534 v1
 parent: Tech & Content Delivery
 nav_order: 7
 ---
 
 {: .no_toc }
 
-# Object Oriented Design and Development COM528
+# Object Oriented Design and Development COM534 v1
 
 ### Professionally design and document your project
 
