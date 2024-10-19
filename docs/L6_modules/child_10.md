@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Snoptic Project COM625
+title: Synoptic Project COM625
 parent: L6 Modules
 nav_order: 11
 ---

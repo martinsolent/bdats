@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Analytics & Business Intelligence COM517
+title: BLANK
 parent: L5 Modules
 nav_order: 6
 ---
@@ -8,7 +8,7 @@ nav_order: 6
 {: .no_toc }
 
 
-#  Analytics & Business Intelligence COM517
+#  BLANK
 
 
 

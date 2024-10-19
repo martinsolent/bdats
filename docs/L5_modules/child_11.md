@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Economics & Financial Analysis COM529
+title: BLANK
 parent: L5 Modules
 nav_order: 12
 ---
@@ -8,7 +8,7 @@ nav_order: 12
 {: .no_toc }
 
 
-# Economics & Financial Analysis COM529
+# BLANK
 
 
 
