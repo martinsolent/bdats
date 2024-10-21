@@ -25,11 +25,11 @@ Throughout the apprenticeship, you'll gain core technical knowledge that encompa
 
 [Apprenticeships: A guide for employers](https://www.solent.ac.uk/courses/info/higher-degree-apprenticeships/apprenticeships-guide-employers)
 
-### The apprenticeship offers four pathways from 2022, depending on your job role:
+#### We are offering one pathway from 2023:
 
-* Cybersecurity Specialist
-* Network Engineer 
 * Software Engineer
+
+**For employers who have Apprentices with us on Cyber and Networking this site still offers relevant information to support your apprentices.**
 
 [Pathway Details](https://martinsolent.github.io/bdats/docs/pathways/){: .btn .btn-purple }
 
