@@ -34,21 +34,21 @@ Please download the Portfolio Specialist Skills Matrix, Learning Outcomes  & EPA
 [Software Engineer](https://github.com/martinsolent/bdats/raw/refs/heads/main/docs/info/EPA_PACKS_2024/Software_Engineer_2024.zip){: .btn .btn-purple } 
 
 
-You will upload your completed portfolio together with a learning outcome mapping grid in the Gateway EPA period.
 ### Gateway EPA Checklist
 
-Gateway EPA take place in the EPA period following on from the completion of all credited on-programme modules at the end of 3rd year.
+Gateway takes place following on from the completion of all credited on-programme modules at the end of 3rd year before moving on to the EndPoint Assessment period.
 
+There will be a Gateway meeting to check the Apprentice is ready for EPA and all documents have been completed.
 
 1. **Completed Tracker** - This will be a PDF download of the complete tracker from the BDATS course SOL page and/or a self-created spreadsheet.
 1. **Completed Portfolio Mapping** to the Standard learning outcome.
 1. **A signed off EPA Ready Form** - signed by the apprentice, their manager & Solent University
 1. **Manager/Employer Feedback** - this will be feedback on the project and also on the apprenticeship as a whole covering the value that the apprentice has offered to the organisation. (500 words max)
+1. **Final 10k Synoptic Project Report from COM625**
 
-There will be a Gateway meeting to check the Apprentice is ready for EPA and all documents have been completed.
 
-**All documents are available above. Once completed you will upload them as advised by End Point Assessment Coordinator our Apprenticeship Team**
+**All documents are available above. Once completed you will upload them as advised by End Point Assessment Coordinator**
 
 {: .important } 
 
-> **A signed off Conflict of Interest Form** - signed by the apprentice, their manager (if applicable) & EPA Assessor confirming that you do not know each other (before EPA Assessment)
+> **Conflict of Interest Form** - signed by the apprentice, their manager (if applicable) & EPA Assessor confirming that you do not know each other (before EPA Assessment)
