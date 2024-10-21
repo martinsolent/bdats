@@ -26,13 +26,9 @@ You will be offered support and guidance in the final Synoptic Project Module CO
 ### EPA PACK
 Please download the Portfolio Specialist Skills Matrix, Learning Outcomes  & EPA Support Documents for your pathway to map the learning the apprenticeship learning outcomes to your Portfolio items:
 
-[Business Analyst](https://github.com/martinsolent/solent_store/raw/main/docs/BDATS_EPA_PACKS/Business_Analyst.zip){: .btn .btn-purple } 
-
 [Cyber Security Specialist](dhttps://github.com/martinsolent/solent_store/raw/main/docs/BDATS_EPA_PACKS/Cyber_Security_Specialist.zip){: .btn .btn-purple } 
 
 [Data analyst](https://github.com/martinsolent/solent_store/raw/main/docs/BDATS_EPA_PACKS/Data_Analyst.zip){: .btn .btn-purple } 
-
-[IT Consultant](https://github.com/martinsolent/solent_store/raw/main/docs/BDATS_EPA_PACKS/IT_Consultant.zip){: .btn .btn-purple }
 
 [Network Engineer](https://github.com/martinsolent/solent_store/raw/main/docs/BDATS_EPA_PACKS/Network_Engineer.zip){: .btn .btn-purple } 
 
@@ -44,9 +40,14 @@ You will upload your completed portfolio together with a learning outcome mappin
 Gateway EPA take place in the EPA period following on from the completion of all credited on-programme modules at the end of 3rd year.
 
 
-1. Completed Tracker - This will be a printout of the complete tracker from the BDATS SOL course SOL page and/or a self-created spreadsheet.
-1. Completed Portfolio Mapped to the Standard learning outcome.
-1. A signed off Conflict of Interest Form - signed by the apprentice, their manager & EPA Assessor confirming that you do not know each other (before EPA)
-1. A signed off EPA Ready Form - signed by the apprentice, their manager & Solent University
-1. Manager/Employer Feedback - this will be feedback on the project and also on the apprenticeship as a whole covering the value that the apprentice has offered to the organisation. (500 words max)
-1. All documents are available above. Once completed please ZIP them up and submit them on the Portfolio upload link.
+1. **Completed Tracker** - This will be a PDF download of the complete tracker from the BDATS course SOL page and/or a self-created spreadsheet.
+1. **Completed Portfolio Mapping** to the Standard learning outcome.
+1. **A signed off EPA Ready Form** - signed by the apprentice, their manager & Solent University
+1. **Manager/Employer Feedback** - this will be feedback on the project and also on the apprenticeship as a whole covering the value that the apprentice has offered to the organisation. (500 words max)
+
+There will be a Gateway meeting to check the Apprentice is ready for EPA and all documents have been completed.
+
+**All documents are available above. Once completed you will upload them as advised by End Point Assessment Coordinator our Apprenticeship Team**
+
+
+A signed off Conflict of Interest Form - signed by the apprentice, their manager & EPA Assessor confirming that you do not know each other (before EPA)
