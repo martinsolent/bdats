@@ -26,11 +26,11 @@ You will be offered support and guidance in the final Synoptic Project Module CO
 ### EPA PACK
 Please download the Portfolio Specialist Skills Matrix, Learning Outcomes  & EPA Support Documents for your pathway to map the learning the apprenticeship learning outcomes to your Portfolio items:
 
-[Cyber Security Specialist](dhttps://github.com/martinsolent/solent_store/raw/main/docs/BDATS_EPA_PACKS/Cyber_Security_Specialist.zip){: .btn .btn-purple } 
+[Cyber Security Specialist](https://github.com/martinsolent/bdats/raw/refs/heads/main/docs/info/EPA_PACKS_2024/Cyber_Security_Specialist_2024.zip){: .btn .btn-purple } 
 
-[Data analyst](https://github.com/martinsolent/solent_store/raw/main/docs/BDATS_EPA_PACKS/Data_Analyst.zip){: .btn .btn-purple } 
+[Data analyst](https://github.com/martinsolent/bdats/raw/refs/heads/main/docs/info/EPA_PACKS_2024/Data_Analyst_2024.zip){: .btn .btn-purple } 
 
-[Network Engineer](https://github.com/martinsolent/solent_store/raw/main/docs/BDATS_EPA_PACKS/Network_Engineer.zip){: .btn .btn-purple } 
+[Network Engineer](https://github.com/martinsolent/bdats/raw/refs/heads/main/docs/info/EPA_PACKS_2024/Network_Engineer_2024.zip){: .btn .btn-purple } 
 
 [Software Engineer](https://github.com/martinsolent/bdats/raw/refs/heads/main/docs/info/EPA_PACKS_2024/Software_Engineer_2024.zip){: .btn .btn-purple } 
 
