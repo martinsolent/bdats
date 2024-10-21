@@ -8,16 +8,15 @@ nav_order: 13
 
 # Portfolio
 
-<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=286b4a1e-12e0-4e84-84c4-ae3e00f52d9f&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=true&amp;showbrand=false&amp;captions=true&amp;interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay"></iframe>
+You are required to map your learning to the Knowledge, Skills & Behaviours (KSBs) outlined in the DATS Standard through **Portfolio Mapping.**
+
+This process involves mapping the work you completed during your university modules, including work-based modules, you can also map tasks undertaken in your job role with your employer.
 
 
-You are required to create a portfolio of the work you have undertaken over the course of your apprenticeship. This will be the work you produced on-programme on your university modules and also work you have undertaken in your job role with your employer (that maps to the standard learning outcomes)
+**The university modules have already been uploaded to our system, graded, internally and externally moderated, and signed off at the Assessment and Progression Boards. You only need to create an overarching document that summarises each item in your portfolio and maps them to the relevant KSBs for your specialism (pathway) using the Portfolio template and KSBs Matrix.**
 
-You just need an overarching document with a summary of each of the items you have in your portfolio and you need to map these to the learning outcomes c from the Digital and Technology Solutions apprenticeship standard which is broken down into core skills and skills that belong to your specialism (pathway).
 
-You have already been assessed on all the work you submitted on the course, but it is a requirement of the apprenticeship that you do complete a portfolio of your work and that is then checked when you move into EPA and gateway, it is also used when the University is inspected as a training provider,
-
-You will be offered support and guidance in the final Synoptic Project Module COM625 and in following the Gateway EPA period, but to support the mapping process learning outcomes for both the core and specialism skills for each of the pathways.
+You will be offered support and guidance in the final Synoptic Project Module COM625 and in following the Gateway EPA period.
 
 ### Portfolio: Mapping KSBs
 

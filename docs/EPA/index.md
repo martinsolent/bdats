@@ -99,7 +99,7 @@ The assessment of the Synoptic Project should include the employer’s evaluatio
 
 **Portfolio Mapping**
 
-apprentices will have been mapping all their learning throughout the apprenticeship to the standard KSBs, coming up to EPA it is important that this mapping is up to date using the template provided.
+Apprentices will have been mapping all their learning throughout the apprenticeship to the standard KSBs, coming up to EPA it is important that this mapping is up to date using the templates provided.
 
 ![](../images/COM625/Picture17.png)
 
