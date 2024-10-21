@@ -39,30 +39,29 @@ kalin.penev@solent.ac.uk
 Course Leader for:
 
 * Computing Foundation Year
-* BSc (Hons) Digital Design and Web Development
+* L4 Data Analyst Apprenticeship
 * BSc (Hons) Digital and Technology Solutions (Apprenticeships),
-* MSc Digital Design
 
 martin.reid@solent.ac.uk
 
-#### [Dr. Drishty Sobnath](https://www.solent.ac.uk/staff-profiles/academic-profiles/drishty-sobnath/drishty-sobnath) **- Senior Lecturer in Computing - Data Science**
+#### [Dr. Taiwo Ayodele](https://www.solent.ac.uk/staff/academic) **- Senior Lecturer Computing**
 
 Course Leader for:
 
-* BSc (Hons) Computing,
+* BSc (Hons) Computer Science
 * BSc (Hons) Software Engineering,
-* MSc Computer Engineering,
-* MSc Cyber Security Engineering
+* MSc Computer Engineering
 
-drishty.sobnath@solent.ac.uk
+taiwo.ayodele@solent.ac.uk
 
 #### [Dr. Shakeel Ahmad](https://www.solent.ac.uk/staff-profiles/academic-profiles/shakeel-ahmad/shakeel-ahmad) - **Associate Professor in Computing**
 
 Course Leader for:
 
-* BSc (Hons) Computer Systems and Networks Engineering,
-* BSc (Hons) Cyber Security Management,
+* BSc (Hons) Computer and Networks Engineering
+* BSc (Hons) Cyber Security
 * MSc Applied AI and Data Science
+* MSc Cyber Security Engineering
 
 shakeel.ahmad@solent.ac.uk
 
@@ -86,26 +85,20 @@ bode.amangele@solent.ac.uk
 
 darren.cunningham@solent.ac.uk
 
-#### [Raza Hasan](https://www.solent.ac.uk/staff/academic/raza-hasan) **- Senior Lecturer Computing**
+#### [Dr. Raza Hasan](https://www.solent.ac.uk/staff/academic/raza-hasan) **- Senior Lecturer Computing**
 
 raza.hasan@solent.ac.uk
 
+#### Dr. Daniel Olabanji **- Lecturer in Software Development (Web)**
 
-#### [Dr Taiwo Ayodele](https://www.solent.ac.uk/staff/academic) **- Senior Lecturer Computing**
-
-taiwo.ayodele@solent.ac.uk
-
-
-#### [Vacant Post](https://www.solent.ac.uk/staff/academic) **- Lecturer in Software Development (Web)**
-
-@solent.ac.uk
+daniel.olabanji@solent.ac.uk
 
 #### Kenton Wheeler **- Associate Lecturer in Computing**
 
 kenton.wheeler@solent.ac.uk
 
 
-#### [Neville Palmer](https://www.solent.ac.uk/staff-profiles/academic-profiles/neville-palmer/neville-palmer) **- Senior Lecturer in Communications Eng**
+#### [Dr. Neville Palmer](https://www.solent.ac.uk/staff-profiles/academic-profiles/neville-palmer/neville-palmer) **- Senior Lecturer in Communications Eng**
 
 neville.palmer@solent.ac.uk
 
