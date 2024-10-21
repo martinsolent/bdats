@@ -25,7 +25,7 @@ Throughout the apprenticeship, you'll gain core technical knowledge that encompa
 
 [Apprenticeships: A guide for employers](https://www.solent.ac.uk/courses/info/higher-degree-apprenticeships/apprenticeships-guide-employers)
 
-#### We are offering one pathway from 2023:
+### We are offering one pathway from 2023:
 
 * Software Engineer
 
