@@ -49,5 +49,6 @@ There will be a Gateway meeting to check the Apprentice is ready for EPA and all
 
 **All documents are available above. Once completed you will upload them as advised by End Point Assessment Coordinator our Apprenticeship Team**
 
-{: .note } 
+{: .important } 
+
 > **A signed off Conflict of Interest Form** - signed by the apprentice, their manager (if applicable) & EPA Assessor confirming that you do not know each other (before EPA Assessment)
