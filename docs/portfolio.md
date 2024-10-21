@@ -32,7 +32,7 @@ Please download the Portfolio Specialist Skills Matrix, Learning Outcomes  & EPA
 
 [Network Engineer](https://github.com/martinsolent/solent_store/raw/main/docs/BDATS_EPA_PACKS/Network_Engineer.zip){: .btn .btn-purple } 
 
-[Software Engineer](https://github.com/martinsolent/solent_store/raw/main/docs/BDATS_EPA_PACKS/Software_Engineer.zip){: .btn .btn-purple } 
+[Software Engineer](../info/EPA_PACKS_2024/Software_Engineer_2024.zip){: .btn .btn-purple } 
 
 You will upload your completed portfolio together with a learning outcome mapping grid in the Gateway EPA period.
 ### Gateway EPA Checklist
