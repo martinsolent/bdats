@@ -20,7 +20,7 @@ You will be offered support and guidance in the final Synoptic Project Module CO
 
 ### Portfolio: Mapping KSBs
 
-<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=5aec8018-58b8-49c7-868c-aeb700ccb796&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=41a36f9d-6d37-4686-b1c4-b21601431d8e&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="DATS 1-1 - KSB Mapping" ></iframe>
 
 ### EPA PACK
 Please download the Portfolio Specialist Skills Matrix, Learning Outcomes  & EPA Support Documents for your pathway to map the learning the apprenticeship learning outcomes to your Portfolio items:
