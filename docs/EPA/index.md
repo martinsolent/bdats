@@ -7,7 +7,7 @@ has_children: true
 
 {: .no_toc }
 
-#  BDATS Verion 1.1 EPA
+#  BDATS Version 1.1 EPA
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=6eb05ac4-a914-4d49-a8ce-b20d00f6eb18&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Synoptic Project &amp; EPA v:1.1" ></iframe>
 
