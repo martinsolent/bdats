@@ -9,9 +9,9 @@ has_children: true
 
 #  BDATS Version 1.1 EPA
 
-<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=6eb05ac4-a914-4d49-a8ce-b20d00f6eb18&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Synoptic Project &amp; EPA v:1.1" ></iframe>
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=d6c77208-38fe-4570-86cf-b2a600b0b221&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=true&amp;showbrand=true&amp;captions=true&amp;interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="SYNOPTIC PROJECT &amp; EPA DTS 1.1 - 2025"></iframe>
 
-[Download Slides](../images/COM625_INTRO_2024_v2.pptx)
+[Download Slides](../info/COM625_INTRO_2025_v5E.pptx)
 
 ### Overall Assessment Strategy
 The assessment strategy for the Degree Apprenticeship includes a balanced mix of essays, reports, practical exercises, coursework, and tests. These are mapped to each module of the BSc Digital & Technology Solutions Degree Apprenticeship to assess the development of Knowledge, Skills, and Behaviours (KSBs). The End Point Assessment (EPA) consists of a Synoptic Project and Presentation.
@@ -22,11 +22,62 @@ The Synoptic work-based project takes place near the end of the apprenticeship. 
 **Two methods of assessment:**
 
 1.	Synoptic Work based Project Practical & reporting
-2.	Presentation 1 hour (30mins plus Q&A) with the Independent Assessor
+2.	Presentation 1 hour (30mins plus Q&A) with the Apprentice Independent Assessor, employer and Solent University Tutor
 
 ![](../images/COM625/Picture6.png)
 
 **INSTITUTE FOR APPRENTICESHIPS, 2015.** DIGITAL INDUSTRIES -ASSESSMENT PLAN DIGITAL & TECHNOLOGY SOLUTIONS PROFESSIONAL BSC (Hons) Digital & Technology Solutions. instituteforapprenticeships.org. Institute for Apprenticeships [viewed 18 October 2024]. Available from: https://www.instituteforapprenticeships.org/media/1073/digital_and_technology_solutions_professional.pdf
+
+
+
+#### Overview of the Synoptic Project and EPA
+
+**1. End Point Assessment (EPA) Structure:** The EPA is the final stage of the apprenticeship, designed to assess whether the apprentice has met the required standard. It usually consists of several components:
+* Synoptic Project Work-Based Project
+* Employer Reference
+* Presentation, Q&A and discussion
+
+The **Synoptic Project** is a key element of the EPA, testing the apprentice’s ability to apply their knowledge and skills in a real-world context.
+
+**2. Synoptic Project Overview:**
+* The **Synoptic Projec**t is a significant piece of work undertaken towards the end of the apprenticeship.
+* Typically carried out over a period 6 months, the project addresses a real business or organisational need.
+* It provides an opportunity for the apprentice to **demonstrate technical proficiency, problem-solving skills, and project management capabilities in an integrated manner.**
+* The project may involve designing, developing, and implementing a solution using the digital and technology skills the apprentice has developed during their training.
+
+**3. Key Assessment Criteria:** The Synoptic Project is evaluated against several core competencies, including:
+* Technical Knowledge: Applying digital and technical concepts in areas such as software development, data analysis, cybersecurity, or IT solutions.
+* Project Management: Planning, executing, and managing a project from start to finish, including time management, budgeting, and resource allocation.
+* Problem-Solving: Effectively analysing problems and delivering practical solutions.
+* Communication and Collaboration: Communicating technical information to both technical and non-technical stakeholders and working effectively within a team.
+* Business Understanding: Demonstrating an understanding of the project’s strategic importance and how the digital solution impacts the business.
+* Innovation and Adaptability: Showing creativity in problem-solving and adapting to changing requirements or unforeseen challenges during the project.
+
+**4. Project Submission and Presentation:**
+* The final project is typically submitted as a written report, detailing the problem, approach, and solution.
+* The apprentice will present the project to an independent EPA assessor who they will not know (a conflict-of-interest form will be signed off by all parties)
+* A **Q&A session** follows the presentation, allowing assessor to evaluate the apprentice’s understanding and depth of insight.
+
+5. Integration of Learning: **The Synoptic Project** is designed to be a comprehensive test of all the knowledge, skills, and behaviours developed throughout the apprenticeship
+
+
+**6. Grading and Feedback:**
+* The project will be assessed based on how well the apprentice meets the criteria set out in the A**pprenticeship Standard Knowledge, Skills and Behaviours (KSBs**) for Digital and Technology Solutions.
+* Apprentices will be graded using Honours degree classifications for English universities. All UK universities must follow the QAA (Quality Assurance Agency for Higher Education) Code of practice for the assurance of academic quality and standards in higher education. This ensures continued consistency across universities.
+
+The national degree award outcomes are shown below with apprenticeship grading equivalence. These typically are as follows:
+
+![](../images/COM625/Picture20.png)
+
+* Detailed feedback is provided, highlighting strengths and areas for improvement.
+
+**7. Employer Involvement:**
+* Employers play a vital role in the Synoptic Project, often helping to define the project’s scope to ensure it meets both business needs and the assessment criteria.
+* The apprentice with the support of their employer will scope out and provide a summary of what the project will cover and will submit and get sign off before starting the Synoptic Project using the supplied Project Outline form and project proposal template.
+* The Employer Reference is another key component of the EPA, where the employer gives their assessment of the apprentice’s performance.
+
+
+------------------
 
 
 ### Synoptic Project
@@ -121,12 +172,3 @@ Project Presentation to Independent EPA Assessor
 * A conflict-of-interest form must be completed to confirm that the Apprentice and Assessor do not know each other
 
 * The Apprentice will present for 25-30 minutes, followed by a Q&A session within a 1-hour time slot
-
-## Assessment and Grading
-
-The Honours degree award and classification is based on a weighted average mark of the assessed work the apprentice has completed. The Synoptic Project (40 credits) contributes greatly to the final year marks. Apprentices will be graded using Honours degree classifications for English universities. The national degree award outcomes are shown below with apprenticeship grading equivalence. 
-
-These typically are as follows:
-
-![](../images/COM625/Picture20.png)
-
