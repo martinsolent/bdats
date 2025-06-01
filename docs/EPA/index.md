@@ -55,11 +55,11 @@ The **Synoptic Project** is a key element of the EPA, testing the apprentice’s
 
 **4. Project Submission and Presentation:**
 * The final project is typically submitted as a written report, detailing the problem, approach, and solution.
-* The apprentice will present the project to an independent EPA assessor who they will not know (a conflict-of-interest form will be signed off by all parties)
+* The apprentice will present their project to a panel (25-30 min) consisting of an independent EPA assessor, project support tutor and employer/company representative.
 * A **Q&A session** follows the presentation, allowing assessor to evaluate the apprentice’s understanding and depth of insight.
+* **The EPA presentation assessment** will last 1 hour in total
 
-5. Integration of Learning: **The Synoptic Project** is designed to be a comprehensive test of all the knowledge, skills, and behaviours developed throughout the apprenticeship
-
+**5. Integration of Learning:** The Synoptic Project is designed to be a comprehensive test of all the knowledge, skills, and behaviours developed throughout the apprenticeship
 
 **6. Grading and Feedback:**
 * The project will be assessed based on how well the apprentice meets the criteria set out in the A**pprenticeship Standard Knowledge, Skills and Behaviours (KSBs**) for Digital and Technology Solutions.
