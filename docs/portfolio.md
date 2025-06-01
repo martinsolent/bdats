@@ -13,7 +13,7 @@ You are required to map your learning to the Knowledge, Skills & Behaviours (KSB
 This process involves mapping the work you completed during your university modules, including work-based modules, you can also map tasks undertaken in your job role with your employer.
 
 
-**The university modules have already been uploaded to our system, graded, internally and externally moderated, and signed off at the Assessment and Progression Boards. You only need to create an overarching document that summarises each item in your portfolio and maps them to the relevant KSBs for your specialism (pathway) using the Portfolio template and KSBs Matrix.**
+**Your university modules have already been uploaded to our system, graded, internally and externally moderated, and signed off at the Assessment and Progression Boards. You only need to create an overarching document that summarises each item in your portfolio and maps them to the relevant KSBs for your specialism (pathway) using the Portfolio template and KSBs Matrix.**
 
 
 You will be offered support and guidance in the final Synoptic Project Module COM625 and in following the Gateway EPA period.
@@ -36,19 +36,13 @@ Please download the Portfolio Specialist Skills Matrix, Learning Outcomes  & EPA
 
 ### Gateway EPA Checklist
 
-Gateway takes place following on from the completion of all credited on-programme modules at the end of 3rd year before moving on to the EndPoint Assessment period.
+Gateway takes place following on from the completion of all on-programme modules at the end of 3rd year before moving on to the Synoptic Work based Project EndPoint Assessment period in the final 6 months (approx.) of the apprenticeship.
 
 There will be a Gateway meeting to check the Apprentice is ready for EPA and all documents have been completed.
 
-1. **Completed Tracker** - This will be a PDF download of the complete tracker from the BDATS course SOL page and/or a self-created spreadsheet.
-1. **Completed Portfolio Mapping** to the Standard learning outcome.
-1. **A signed off EPA Ready Form** - signed by the apprentice, their manager & Solent University
-1. **Manager/Employer Feedback** - this will be feedback on the project and also on the apprenticeship as a whole covering the value that the apprentice has offered to the organisation. (500 words max)
-1. **Final 10k Synoptic Project Report from COM625**
+1. **Current up to date Tracker** - Your track should you up to date for all on programme modules and learning.
+1. **Current up to date Portfolio Mapping** to the Standard learning outcome.
+1. **EPA Ready Form** - signed by the apprentice, their manager & Solent University
+1. **Synoptic Work based Project Outline Proposal** - Agreed by apprentice, employer and university (500 words max)
 
 
-**All documents are available above. Once completed you will upload them as advised by End Point Assessment Coordinator**
-
-{: .important } 
-
-> **Conflict of Interest Form** - signed by the apprentice, their manager (if applicable) & EPA Assessor confirming that you do not know each other (before EPA Assessment)
