@@ -146,7 +146,7 @@ Project Management
 13.	Appendices
 
 **Employer Reference**
-The assessment of the Synoptic Project should include the employer’s evaluation against the common criteria. This will be documented in the Employer's Reference, completed and signed off at the Gateway stage.
+The assessment of the Synoptic Project should include the employer’s evaluation against the common criteria and be presented in an appendix of the project report. 
 
 **Portfolio Mapping**
 
