@@ -90,7 +90,7 @@ The initial phase of the project focuses on defining its scope and purpose, incl
 The final project report should present a narrative of the project from inception to completion, aligned with the relevant Knowledge, Skills, and Behaviours (KSBs). It should outline the approaches taken, the rationale for their selection, and assess the project’s outputs in terms of their suitability for purpose. The report should also include conclusions, a critical review of the overall process, and recommendations for future development.
 
 **AE3 – Demo/Presentation - 20% (25-30mins)**
-To support your Project Report, you will need to give a presentation/demonstration of your project.
+To support your Project Report, you will need to give a presentation/demonstration of your project. You will receive formative feedback on your presentation before the EPA Presentation Assessment
 
 ## Project Selection
 ![](../images/COM625/Picture7.jpg)
