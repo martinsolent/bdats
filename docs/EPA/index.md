@@ -157,7 +157,7 @@ Apprentices will have been mapping all their learning throughout the apprentices
 ![](../images/COM625/Picture18.png)
 
 ## Gateway
-Upon completion of the on-programme training, a Gateway meeting will be arranged to ensure that the apprentice has completed and passed all modules and is ready to progress to the **Synoptic Project End Point Assessment (EPA)** - final 6 months (approx. of the apprenticeship. This meeting will verify that a suitable project has been agreed by the apprentice, employer and the university and a project outline proposal has been submitted, off-the-job training tracker and portfolio KSB mapping should be current and up to date. A form will be completed by all parties to agree EPA readiness
+Upon completion of the on-programme training, a Gateway meeting will be arranged to ensure that the apprentice has completed and passed all modules and is ready to progress to the **Synoptic Project End Point Assessment (EPA)** - final 6 months (approx.) of the apprenticeship. This meeting will verify that a suitable project has been agreed by the apprentice, employer and the university and a project outline proposal has been submitted, off-the-job training tracker and portfolio KSB mapping should be current and up to date. A form will be completed by all parties to agree EPA readiness
 
 
 **Apprentices will have support from the university throughout the Synoptic Project period right up to the EPA assessment**
