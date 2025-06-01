@@ -24,7 +24,7 @@ The Synoptic work-based project takes place near the end of the apprenticeship. 
 1.	Synoptic Work based Project Practical & reporting
 2.	Presentation 1 hour (30mins plus Q&A) with the Apprentice Independent Assessor, employer and Solent University Tutor
 
-![](../images/COM625/Picture6.png)
+![](../images/EPA_img_1-5-25.png)
 
 **INSTITUTE FOR APPRENTICESHIPS, 2015.** DIGITAL INDUSTRIES -ASSESSMENT PLAN DIGITAL & TECHNOLOGY SOLUTIONS PROFESSIONAL BSC (Hons) Digital & Technology Solutions. instituteforapprenticeships.org. Institute for Apprenticeships [viewed 18 October 2024]. Available from: https://www.instituteforapprenticeships.org/media/1073/digital_and_technology_solutions_professional.pdf
 
