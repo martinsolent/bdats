@@ -20,12 +20,13 @@ nav_order: 3
 * Overview guides
 * Presentation slides
 * Feedback documents
+* EPA Presentation Question Bank
 * Grade mark calculators
 
 
 **Synoptic Project Report & Presentation Assessor Overview**
 
-BSc Digital and Technology Solutions Professional 
+**BSc Digital and Technology Solutions Professional **
 Apprenticeship Standard: [ST0119 v1.1 (2015)](https://skillsengland.education.gov.uk/apprenticeships/st0119-v1-1)
 
 The Synoptic Project is undertaken during the final six months of the apprenticeship. Apprentices are required to complete and document a work-based project, supported by their employer and Solent University tutors.
