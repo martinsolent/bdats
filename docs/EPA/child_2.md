@@ -34,7 +34,7 @@ A 10,000-word report must be submitted using a standard template. Within this re
 
 Apprentices on the Digital and Technology Solutions apprenticeship will also complete a mapping matrix that outlines learning across all credited modules, including assessed work-based learning. This matrix (not directly assessed) provides assurance that the apprentice has achieved broad coverage of the KSBs defined in the apprenticeship standard.
 
-[Download Assessor Overview Guide](../info/EPA_1-1_Assessor_Train_25/DTS_EPA_1-1_Q-Bank.pdf)
+[Download Assessor Overview Guide](../info/EPA_1-1_Assessor_Train_25/EPA_Project_Assessor_Overview.pdf)
 
 ![](../info/EPA_1-1_Assessor_Train_25/gateway_Img.png)
 
@@ -108,7 +108,7 @@ An independent assessor will be introduced to strengthen the integrity and consi
 
 **Guidance for Assessors – Use of Question Bank**  
 
-[Download DTS EPA Question Bank](../info/EPA_1-1_Assessor_Train_25/DTS_EPA_1-1_Q-Bank.pdfg)
+[Download DTS EPA Question Bank](../info/EPA_1-1_Assessor_Train_25/DTS_EPA_1-1_Q-Bank.pdf)
 
 The question bank is provided as a starting point for independent assessors conducting the End Point Assessment (EPA) for the BSc (Hons) Digital & Technology Solutions Professional (integrated degree). The questions listed under each criterion are illustrative examples only. They are designed to reflect the types of knowledge, skills, and behaviours (KSBs) outlined in the apprenticeship standard and are generic in nature.  
 
