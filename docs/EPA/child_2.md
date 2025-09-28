@@ -108,6 +108,7 @@ An independent assessor will be introduced to strengthen the integrity and consi
 
 **Guidance for Assessors – Use of Question Bank**  
 
+
 [Download DTS EPA Question Bank](../info/EPA_1-1_Assessor_Train_25/DTS_EPA_1-1_Q-Bank.pdf)
 
 The question bank is provided as a starting point for independent assessors conducting the End Point Assessment (EPA) for the BSc (Hons) Digital & Technology Solutions Professional (integrated degree). The questions listed under each criterion are illustrative examples only. They are designed to reflect the types of knowledge, skills, and behaviours (KSBs) outlined in the apprenticeship standard and are generic in nature.  
@@ -130,6 +131,12 @@ The Synoptic Project submitted by the apprentice is designed to demonstrate full
 
 
 **Guidance for Assessors – Giving written feedback**
+
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
+	<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=5ab4b42f-f7a1-434a-857c-b366012f9627&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="DTS 1.1 - EPA Assessor Feedback Form"></iframe>
+</div>
+
 
 **Written feedback plays a vital role in the End-Point Assessment (EPA) process** It should be clear, constructive and aligned with the assessment criteria. The aim is to provide apprentices with a fair and transparent summary of their performance, while also supporting quality assurance and moderation.
 
