@@ -9,6 +9,19 @@ nav_order: 3
 
 # EPA Assessor Training 1.1
 
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
+	<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=5d228a80-bd48-4794-bce7-b366011f8aa1&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="DTS 1.1 - EPA Assessor Overview 2025"></iframe>
+</div>
+
+
+[Download Slides](../info/EPA_1-1_Assessor_Train_25/DTS_EPA_assessor_info_9-25.pptx)
+
+[Download EPA Assessor Pack](../info/EPA_1-1_Assessor_Train_25/DTS_EPA_1_1_Pack.zip) this pack contains:
+* Overview guides
+* Presentation slides
+* Feedback documents
+* Grade mark calculators
+
 
 **Synoptic Project Report & Presentation Assessor Overview**
 
@@ -20,6 +33,8 @@ The Synoptic Project is undertaken during the final six months of the apprentice
 A 10,000-word report must be submitted using a standard template. Within this report, apprentices are expected to demonstrate how they have met the Knowledge, Skills and Behaviours (KSBs) required for the assessment. Evidence of this should be included both in the main body of the report and in a mapping table located in the appendices.
 
 Apprentices on the Digital and Technology Solutions apprenticeship will also complete a mapping matrix that outlines learning across all credited modules, including assessed work-based learning. This matrix (not directly assessed) provides assurance that the apprentice has achieved broad coverage of the KSBs defined in the apprenticeship standard.
+
+[Download Assessor Overview Guide](../info/EPA_1-1_Assessor_Train_25/DTS_EPA_1-1_Q-Bank.pdf)
 
 ![](../info/EPA_1-1_Assessor_Train_25/gateway_Img.png)
 
@@ -67,8 +82,7 @@ An independent assessor will be introduced to strengthen the integrity and consi
 * Will serve as a second marker, applying university guidelines for 40-credit modules.
 * Will collaborate with the employer and support tutor to agree the final grade and feedback.
 
-**  
-Assessment Process**
+**Assessment Process**
 
 - The Independent Assessor will already have received the apprentice’s report and slide deck.
 
@@ -92,8 +106,9 @@ Assessment Process**
 
 - **DON’T NOT RELEASE** **Grades & feedback** until the degree average grade has been calculated.
 
-**  
-Guidance for Assessors – Use of Question Bank**  
+**Guidance for Assessors – Use of Question Bank**  
+
+[Download DTS EPA Question Bank](../info/EPA_1-1_Assessor_Train_25/DTS_EPA_1-1_Q-Bank.pdfg)
 
 The question bank is provided as a starting point for independent assessors conducting the End Point Assessment (EPA) for the BSc (Hons) Digital & Technology Solutions Professional (integrated degree). The questions listed under each criterion are illustrative examples only. They are designed to reflect the types of knowledge, skills, and behaviours (KSBs) outlined in the apprenticeship standard and are generic in nature.  
 
@@ -103,7 +118,7 @@ The Synoptic Project submitted by the apprentice is designed to demonstrate full
 
 **Note:** These questions are not tailored to any specific specialism, apprentice’s project report or presentation. Instead, they serve as a foundation to help assessors craft contextualised and relevant questions that align with the actual content of the apprentice’s submitted work and presentation.  
 
-Assessors are encouraged to:
+**Assessors are encouraged to:**
 
 - Use these examples to inspire and structure their own questions.
 
@@ -114,11 +129,11 @@ Assessors are encouraged to:
 - Use them in conjunction with grade mark rubrics for the Synoptic Project EPA
 
 
-**Guidance for Assessors – Giving written feedback  
+**Guidance for Assessors – Giving written feedback**
 
-**Written feedback plays a vital role in the End-Point Assessment (EPA) process. It should be clear, constructive and aligned with the assessment criteria. The aim is to provide apprentices with a fair and transparent summary of their performance, while also supporting quality assurance and moderation.
+**Written feedback plays a vital role in the End-Point Assessment (EPA) process** It should be clear, constructive and aligned with the assessment criteria. The aim is to provide apprentices with a fair and transparent summary of their performance, while also supporting quality assurance and moderation.
 
-Best Practice for Written Feedback:
+**Best Practice for Written Feedback:**
 
 - **Be specific and evidence-based:** Feedback should refer directly to the apprentice’s work, using examples where possible. Avoid vague statements and focus on what was done well or where improvement is needed.
 
@@ -134,13 +149,14 @@ Best Practice for Written Feedback:
 
 - **Support moderation and audit**: Ensure feedback is detailed enough to support internal and external quality assurance. It should justify the grade awarded and be consistent with the evidence presented.
 
-There is a blank feedback sheet titled **BLANK_EPA_1-1_FEEDBACK**, and a partially populated sheet called **RESPONSE_EPA_1-1_FEEDBACK**. The latter includes example responses from the apprentice, based on questions from the question bank and the grade mark criteria. You will also use the Excel grade calculator to come up with an overall average numeric value.
+There is a blank feedback sheet titled [BLANK_EPA_1-1_FEEDBACK](../info/BLANK_EPA_1-1_FEEDBACK_2025_v4.docx), and a partially populated sheet called [RESPONSE_EPA_1-1_FEEDBACK](../info/Response_EPA_1-1_FEEDBACK_2024_v4.pdf). The latter includes example responses from the apprentice, based on questions from the question bank and the grade mark criteria. You will also use the Excel grade calculator to come up with an overall average numeric value.
 
 **Guidance for Assessors - Grading the Assessment**
 
 The Synoptic Project module is a credited part of the Digital and Technology Solutions degree. Apprentices must pass this module to complete the degree and they must pass the degree to complete the apprenticeship.
 
 **Final Assessment and Grading**  
+
 
 All apprentices will be studying for a BSc Honours degree in Digital & Technology Solutions. It is the achievement of the Honours degree that demonstrates that the standard has been met, and which provides the grading.
 
@@ -181,9 +197,14 @@ At Solent University, assessments are marked using a numeric grading system. Ind
 
 **Guidance for Assessors - Grade Calculator for the Synoptic Project EPA (1.1)**
 
-This grade calculator is designed to support assessors in evaluating apprentices’ performance in the **Synoptic Project EPA**. It calculates an overall numeric grade and maps it to a classification: **Distinction (1^(st)), Merit (2:1), Pass (2:2 & 3^(rd)), or fail**.
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
+	<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=2d6fc913-cd06-4b52-ac4f-b3660123d125&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="DTS 1.1 - EPA Grade Calculator"></iframe>
+</div>
 
-The spreadsheet includes a structured list of learning outcomes across three domains:
+
+This grade calculator is designed to support assessors in evaluating apprentices’ performance in the **Synoptic Project EPA**. It calculates an overall numeric grade and maps it to a classification:
+
+[The spreadsheet includes a structured list of learning outcomes across three domains:](../info/EPA_1-1_Assessor_GRADER_CAL_Sept_25.xlsx)
 
 - **Core Skills (CS)**
 
