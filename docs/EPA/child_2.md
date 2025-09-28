@@ -149,7 +149,7 @@ The Synoptic Project submitted by the apprentice is designed to demonstrate full
 
 - **Support moderation and audit**: Ensure feedback is detailed enough to support internal and external quality assurance. It should justify the grade awarded and be consistent with the evidence presented.
 
-There is a blank feedback sheet titled [BLANK_EPA_1-1_FEEDBACK](../info/BLANK_EPA_1-1_FEEDBACK_2025_v4.docx), and a partially populated sheet called [RESPONSE_EPA_1-1_FEEDBACK](../info/Response_EPA_1-1_FEEDBACK_2024_v4.pdf). The latter includes example responses from the apprentice, based on questions from the question bank and the grade mark criteria. You will also use the Excel grade calculator to come up with an overall average numeric value.
+There is a blank feedback sheet titled [BLANK_EPA_1-1_FEEDBACK](../info/EPA_1-1_Assessor_Train_25/BLANK_EPA_1-1_FEEDBACK_2025_v4.docx), and a partially populated sheet called [RESPONSE_EPA_1-1_FEEDBACK](../info/EPA_1-1_Assessor_Train_25/Response_EPA_1-1_FEEDBACK_2024_v4.pdf). The latter includes example responses from the apprentice, based on questions from the question bank and the grade mark criteria. You will also use the Excel grade calculator to come up with an overall average numeric value.
 
 **Guidance for Assessors - Grading the Assessment**
 
@@ -204,7 +204,7 @@ At Solent University, assessments are marked using a numeric grading system. Ind
 
 This grade calculator is designed to support assessors in evaluating apprentices’ performance in the **Synoptic Project EPA**. It calculates an overall numeric grade and maps it to a classification:
 
-[The spreadsheet includes a structured list of learning outcomes across three domains:](../info/EPA_1-1_Assessor_GRADER_CAL_Sept_25.xlsx)
+[The spreadsheet includes a structured list of learning outcomes across three domains:](../info/EPA_1-1_Assessor_Train_25/EPA_1-1_Assessor_GRADER_CAL_Sept_25.xlsx)
 
 - **Core Skills (CS)**
 
@@ -230,10 +230,6 @@ Once grades are entered:
 - It then **maps the average** to a classification using the Grade Criteria Guidance.
 
 **Grade Criteria Guidance**
-
-Table below provides descriptors for each numeric score:
-
-[TABLE]
 
 **The numeric value for this module will contribute to the overall grade average for the final degree and apprenticeship classifications, in line with Southampton Solent’s grading regulations, to determine the final Apprenticeship degree classification. This might take up to 2 weeks to be confirmed.**
 
