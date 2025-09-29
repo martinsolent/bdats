@@ -113,6 +113,9 @@ An independent assessor will be introduced to strengthen the integrity and consi
 
 **Guidance for Assessors – Use of Question Bank**  
 
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
+	<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=23917a97-32e1-4ec3-9004-b36700a28cd4&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="DTS EPA 1.1 Question Bank 2025"></iframe>
+</div>
 
 [Download DTS EPA Question Bank](../info/EPA_1-1_Assessor_Train_25/DTS_EPA_1-1_Q-Bank.pdf)
 
