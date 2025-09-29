@@ -134,6 +134,14 @@ The Synoptic Project submitted by the apprentice is designed to demonstrate full
 
 - Use them in conjunction with grade mark rubrics for the Synoptic Project EPA
 
+**Apprentice KSB Mapping in Report**
+
+This video walkthrough shows how the apprentices have been guided to demonstrate their knowledge, skills and behaviours (KSBs) within the main body of the report, and how these have been mapped in an appendix. This approach helps the apprentice understand how their project maps to the KSBs, and also supports assessors in carrying out assessments and grading their work
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
+	<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=77720df6-7e19-4c1c-830b-b30f00f32363&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Claiming KSBs in Reports 2025"></iframe>
+</div>
+
 
 **Guidance for Assessors – Giving written feedback**
 
