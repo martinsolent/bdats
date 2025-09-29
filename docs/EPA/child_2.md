@@ -35,6 +35,10 @@ A 10,000-word report must be submitted using a standard template. Within this re
 
 Apprentices on the Digital and Technology Solutions apprenticeship will also complete a mapping matrix that outlines learning across all credited modules, including assessed work-based learning. This matrix (not directly assessed) provides assurance that the apprentice has achieved broad coverage of the KSBs defined in the apprenticeship standard.
 
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
+	<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=fbbe1e41-7ddf-44eb-b09c-b366012f9ab7&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="DTS 1.1 - EPA Synoptic Project Overview"></iframe>
+</div>
+
 [Download Assessor Overview Guide](../info/EPA_1-1_Assessor_Train_25/EPA_Project_Assessor_Overview.pdf)
 
 ![](../info/EPA_1-1_Assessor_Train_25/gateway_Img.png)
