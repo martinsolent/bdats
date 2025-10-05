@@ -10,7 +10,7 @@ nav_order: 3
 # EPA Assessor Training 1.1
 
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
-	<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=5d228a80-bd48-4794-bce7-b366011f8aa1&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="DTS 1.1 - EPA Assessor Overview 2025"></iframe>
+	<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=f2bd8056-15f8-4960-8b9f-b36d012d17fd&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="DTS 1.1 - EPA Assessor Overview 2025 v2"></iframe>
 </div>
 
 
@@ -220,7 +220,7 @@ At Solent University, assessments are marked using a numeric grading system. Ind
 **Guidance for Assessors - Grade Calculator for the Synoptic Project EPA (1.1)**
 
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
-	<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=2d6fc913-cd06-4b52-ac4f-b3660123d125&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="DTS 1.1 - EPA Grade Calculator"></iframe>
+	<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=2b5a9f89-e93c-4a40-ae39-b36d011bf077&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="EPA 1-1 Grader NEW 25 v2"></iframe>
 </div>
 
 This grade calculator is designed to support assessors in evaluating apprentices’ performance in the **Synoptic Project EPA**. It calculates an overall numeric grade and maps it to a classification:
