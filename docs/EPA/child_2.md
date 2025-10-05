@@ -14,9 +14,9 @@ nav_order: 3
 </div>
 
 
-[Download Slides](../info/EPA_1-1_Assessor_Train_25/DTS_EPA_assessor_info_9-25.pptx)
+[Download Slides](../info/EPA_1-1_Assessor_Train_25/DTS_EPA_assessor_info_9-25_v2.pptx)
 
-[Download EPA Assessor Pack](../info/EPA_1-1_Assessor_Train_25/DTS_EPA_1_1_Pack.zip) this pack contains:
+[Download EPA Assessor Pack](../info/EPA_1-1_Assessor_Train_25/DTS_EPA_1_1_Pack_v2.zip) this pack contains:
 * Overview guides
 * Presentation slides
 * Feedback documents
@@ -39,7 +39,7 @@ Apprentices on the Digital and Technology Solutions apprenticeship will also com
 	<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=91394b38-1ec5-4393-a55c-b36d013f803f&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="EPA Assessor PDF Overview Walkthrough"></iframe>
 </div>
 
-[Download Assessor Overview Guide](../info/EPA_1-1_Assessor_Train_25/EPA_Project_Assessor_Overview.pdf)
+[Download Assessor Overview Guide](../info/EPA_1-1_Assessor_Train_25/EPA_Project_Assessor_Overview_v4.pdf)
 
 ![](../info/EPA_1-1_Assessor_Train_25/gateway_Img.png)
 
@@ -227,7 +227,7 @@ This grade calculator is designed to support assessors in evaluating apprentices
 
 The spreadsheet includes a structured list of learning outcomes across three domains:
 
-[Download Excel Grade calculator](../info/EPA_1-1_Assessor_Train_25/EPA_1-1_Assessor_GRADER_CAL_Sept_25.xlsx)
+[Download Excel Grade calculator](../info/EPA_1-1_Assessor_Train_25/COM625_AE2_AE3_grader_2025_v2.xlsx)
 
 **Module Learning Outcomes (LO) and Corresponding Apprentice KSB**
 
