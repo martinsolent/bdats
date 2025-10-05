@@ -229,85 +229,95 @@ The spreadsheet includes a structured list of learning outcomes across three dom
 
 [Download Excel Grade calculator](../info/EPA_1-1_Assessor_Train_25/EPA_1-1_Assessor_GRADER_CAL_Sept_25.xlsx)
 
-- **Core Skills (CS)**
+**Module Learning Outcomes (LO) and Corresponding Apprentice KSB**
 
-- **Core Technical Knowledge (CTK)**
+COM625 Synoptic Report AE2 (70%) & Presentation AE3 (20%)
 
-- **Core Behavioural Skills (CBS)**
+IMG 1
+
+**Degree (Module) Learning Outcome**
+
+1.	Select, apply and evaluate the appropriateness of methods, tools and technologies in the synthesis of meaningful project outcomes.
+2.	Undertake a significant self-managed project in a planned and systematic fashion.
+3.	Identify, interpret and integrate theory drawn from a range of appropriate sources.
+4.	Communicate complex ideas fluently both verbally and in writing.
+5.	Deliver a technology solution project accurately consistent with business needs
+6.	Apply analytical and critical thinking skills to Technology Solutions development
+
+**Knowledge, Skills and Behaviours (KSB) codes and criteria list**
+
+IMG 2 CS
+
+IMG 3 CTK7
+
+IMG 4 CBS1
+
+IMG 5 CBS11
+
+Guidance for Assessors - Grade Calculator for the Synoptic Project EPA (1.1)
+
+This grade calculator is designed to support assessors in evaluating apprentices’ performance in the Synoptic Project EPA on AE2 & AE3. The spreadsheet includes a KSB learning outcomes across three domains: Core Skills (CS), Core Technical Knowledge (CTK) and Core Behavioural Skills (KBS)
+
+**Module Name: Synoptic Project and Presentation COM625**
+
+* AE2: Synoptic Project Report (70% weighting)
+* AE3: Presentation (20% weighting)
+
+Structure of the Workbook -The workbook contains 6 sheets, each serving a specific purpose:
+
+IMG 6 Sheets
+
+**1. Feedback Breakdown AE2**
+
+Divides AE2 into three criteria:
+
+* Presentation, Reporting, Referencing & Citation
+* Methodology, Project Management, Design, Testing, Artefact
+* Evaluation, Conclusions & Recommendations
+
+Each criterion is linked to Learning Outcomes (LOs) and Knowledge, Skills, Behaviours (KSBs).
+
+**1. Rubric AE2**
+
+* Detailed marking rubric for AE2.
+* Describes performance levels from Distinction (1st) to Fail, with descriptors for each criterion.
+* Includes step marks (e.g., 92, 83, 74, etc.) and qualitative descriptors (e.g., “Superb, outstanding, original”).
+
+IMG Rubric
+
+**3. Overall Grade Mark AE2**
+
+* Allows assessors to input individual criterion scores (0–10).
+* Converts these into step marks and an overall grade.
+* Includes a space for qualitative feedback.
+
+IMG Overall
+
+**4. Feedback Breakdown AE3**
+
+Like AE2 but tailored for the Presentation assessment:
+* Presentation
+* Demonstration of Product (LOs 1,2,3,5)
+* Demonstration/Presentation of Product (LO 6)
+
+**5. Rubric AE3**
+* Marking rubric for AE3 with descriptors for each performance band.
+* Aligns with the same grading scale and structure as AE2.
+
+**6. Overall Grade Mark AE3**
+* Input sheet for AE3 scores.
+* Converts criterion scores into step marks and overall grade.
+* Includes space for feedback.
+
+**This Excel-based grader is designed to:**
+
+* Standardise assessment across multiple assessors.
+* Provide transparent, criterion-based grading.
+* Ensure alignment with Learning Outcomes and KSBs.
+* Facilitate moderation and feedback processes.
+* Support apprenticeship and degree classification decisions.
+
+**The numeric value for this module will contribute to the overall grade average for the final degree and apprenticeship classifications, in line with Southampton Solent’s grading regulations, to determine the final Apprenticeship degree classification. This might take up to 2 weeks to be confirmed**
 
 
-Each outcome has a dropdown menu where assessors can select a grade.  
 
-![](../info/EPA_1-1_Assessor_Train_25/drop.png)
-
-Assessors are not expected to grade every single learning outcome. The criteria assessed should reflect the **nature and scope of the project presented**, but there should be **good coverage across Skills, Knowledge, and Behaviours** to ensure a balanced evaluation.
-
-**Formula Logic**
-
-The calculator uses conditional formulas **like =IF(G1="", "", ...)** to ensure that calculations only occur when a grade is entered. This prevents errors and ensures that blank cells are ignored.
-
-Once grades are entered:
-
-- The calculator **averages only the numeric values** of the assessed criteria.
-
-- It then **maps the average** to a classification using the Grade Criteria Guidance.
-
-**Grade Criteria Guidance**
-
-**The numeric value for this module will contribute to the overall grade average for the final degree and apprenticeship classifications, in line with Southampton Solent’s grading regulations, to determine the final Apprenticeship degree classification. This might take up to 2 weeks to be confirmed.**
-
-**You will be given an Excel grade calculator to use to help you calculate the overall grade.**
-
-**Purpose:**
-
-This grade calculator supports the assessment of apprentices' **Synoptic Project EPA for the BSc Digital & Technology Solutions Degree Apprenticeship**. It calculates an overall numeric **grade and classification (Distinction, Merit, Pass, or Fail).**
-
-**Key Principles:**
-
-- **Not all learning outcomes need to be assessed**
-
-- The criteria assessed should reflect the nature and scope of the project presented
-
-- There must **be good coverage across the Skills, Knowledge, and Behaviours sections**
-
-- The calculator averages only the criteria that have been assessed. Blank cells are ignored.
-
-**How It Works:**
-
-- Each learning outcome **(e.g., CS1, CTK3, CBS5)** has a dropdown for selecting a grade.
-
-- Grades are mapped to numeric **values (e.g., Distinction = 10, Merit = 8-9, Pass = 6-7, etc.)**
-
-- The calculator uses Excel logic to average only filled-in grades.
-
-- The final numeric average is matched to a classification using the guidance table.
-
-**Why this is Fair:**
-
-- Apprentices are not penalised for outcomes that were not assessed.
-
-- The average reflects only the evidence presented.
-
-- This supports flexibility and consistency across different project types.
-
-**Assessor Checklist:**
-
-- Assess criteria relevant to the project
-
-- Ensure coverage across Skills, Knowledge, and Behaviours **- Apprentices will map their work to KSBs in an Appendix in their report**
-
-- Use the dropdowns to select grades.
-
-- Leave unassessed outcomes blank.
-
-- Review the final grade and classification generated.
-
-**Benefits of the Calculator**
-
-- Enables **consistent assessment** across all KSBs.
-
-- Ensures **transparency** in grading.
-
-- Aligns feedback with **numeric scores**.
-
-- Supports **moderation and standardisation** across assessors.
