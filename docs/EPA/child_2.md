@@ -265,7 +265,7 @@ This grade calculator is designed to support assessors in evaluating apprentices
 
 Structure of the Workbook -The workbook contains 6 sheets, each serving a specific purpose:
 
-IMG 6 Sheets
+![](../images/EPA_GRADER_IMG/6_item_AE2_AE3.png)
 
 **1. Feedback Breakdown AE2**
 
@@ -283,7 +283,7 @@ Each criterion is linked to Learning Outcomes (LOs) and Knowledge, Skills, Behav
 * Describes performance levels from Distinction (1st) to Fail, with descriptors for each criterion.
 * Includes step marks (e.g., 92, 83, 74, etc.) and qualitative descriptors (e.g., “Superb, outstanding, original”).
 
-IMG Rubric
+![](../images/EPA_GRADER_IMG/rubric.png)
 
 **3. Overall Grade Mark AE2**
 
@@ -291,7 +291,7 @@ IMG Rubric
 * Converts these into step marks and an overall grade.
 * Includes a space for qualitative feedback.
 
-IMG Overall
+![](../images/EPA_GRADER_IMG/overall.png)
 
 **4. Feedback Breakdown AE3**
 
