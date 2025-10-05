@@ -233,7 +233,7 @@ The spreadsheet includes a structured list of learning outcomes across three dom
 
 COM625 Synoptic Report AE2 (70%) & Presentation AE3 (20%)
 
-IMG 1
+![](../images/EPA_GRADER_IMG//KSB_UNI_LO_TABLE.png)
 
 **Degree (Module) Learning Outcome**
 
@@ -246,13 +246,13 @@ IMG 1
 
 **Knowledge, Skills and Behaviours (KSB) codes and criteria list**
 
-IMG 2 CS
+![](../images/EPA_GRADER_IMG/CS.png)
 
-IMG 3 CTK7
+![](../images/EPA_GRADER_IMG/CTK.png)
 
-IMG 4 CBS1
+![](../images/EPA_GRADER_IMG/CBS_1.png)
 
-IMG 5 CBS11
+![](../images/EPA_GRADER_IMG/CBS_2.png)
 
 Guidance for Assessors - Grade Calculator for the Synoptic Project EPA (1.1)
 
