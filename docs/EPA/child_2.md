@@ -225,9 +225,7 @@ At Solent University, assessments are marked using a numeric grading system. Ind
 
 This grade calculator is designed to support assessors in evaluating apprentices’ performance in the **Synoptic Project EPA**. It calculates an overall numeric grade and maps it to a classification:
 
-The spreadsheet includes a structured list of learning outcomes across three domains:
-
-[Download Excel Grade calculator](../info/EPA_1-1_Assessor_Train_25/COM625_AE2_AE3_grader_2025_v2.xlsx)
+The spreadsheet includes a structured list of learning outcomes across three domains on both assessment elements and is part of the **Assessor Pack** which can be download from the top pf this page
 
 **Module Learning Outcomes (LO) and Corresponding Apprentice KSB**
 
