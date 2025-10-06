@@ -17,11 +17,13 @@ nav_order: 3
 [Download Slides](../info/EPA_1-1_Assessor_Train_25/DTS_EPA_assessor_info_9-25_v2.pptx)
 
 [Download EPA Assessor Pack](../info/EPA_1-1_Assessor_Train_25/DTS_EPA_1_1_Pack_v2.zip) this pack contains:
-* Overview guides
-* Presentation slides
-* Feedback documents
-* EPA Presentation Question Bank
-* Grade mark calculators
+
+* Assessor Presentation slides (pptx)
+* EPA Project Assessor Overview (PDF)
+* EPA 1-1 Briefing Document (PDF)
+* EPA blank Feedback Document (doc)
+* EPA Presentation Question Bank (PDF)
+* Grade mark calculator AE2 & AE3 (Excel)
 
 
 **Synoptic Project Report & Presentation Assessor Overview**
@@ -108,8 +110,6 @@ An independent assessor will be introduced to strengthen the integrity and consi
 - There will also be an opportunity for the employer to summarise the apprentice’s performance on the project, based on the reference included in the report.
 
 - The apprentice will then leave the meeting. The Independent Assessor, Solent tutor, and employer will discuss and agree to the final grade and complete feedback.
-
-- **DON’T NOT RELEASE** **Grades & feedback** until the degree average grade has been calculated.
 
 **Guidance for Assessors – Use of Question Bank**  
 
@@ -225,9 +225,7 @@ At Solent University, assessments are marked using a numeric grading system. Ind
 
 This grade calculator is designed to support assessors in evaluating apprentices’ performance in the **Synoptic Project EPA**. It calculates an overall numeric grade and maps it to a classification:
 
-The spreadsheet includes a structured list of learning outcomes across three domains:
-
-[Download Excel Grade calculator](../info/EPA_1-1_Assessor_Train_25/COM625_AE2_AE3_grader_2025_v2.xlsx)
+The spreadsheet includes a structured list of learning outcomes across three domains on both assessment elements and is part of the **Assessor Pack** which can be download from the top pf this page
 
 **Module Learning Outcomes (LO) and Corresponding Apprentice KSB**
 
