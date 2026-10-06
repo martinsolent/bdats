@@ -14,9 +14,9 @@ nav_order: 3
 </div>
 
 
-[Download Slides](../info/EPA_1-1_Assessor_Train_25/DTS_EPA_assessor_info_9-25_v3.pptx)
+[Download Slides](../info/EPA_1-1_Assessor_Train_25/DTS_EPA_assessor_info_9-25_v2.pptx)
 
-[Download EPA Assessor Pack](../info/EPA_1-1_Assessor_Train_25/DTS_EPA_1_1_Pack_v2.zip) this pack contains:
+[Download EPA Assessor Pack](../info/EPA_1-1_Assessor_Train_25/DTS_EPA_1_1_Pack_v3.zip) this pack contains:
 
 * Assessor Presentation slides (pptx)
 * EPA Project Assessor Overview (PDF)
